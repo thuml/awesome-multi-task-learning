@@ -6,22 +6,22 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Table of Contents
 
-- Survey
-- Benchmarks
-  - Computer Vision
-  - NLP
-  - RL & Robotics
-- Architecture
-  - Hard Parameter Sharing
-  - Soft Parameter Sharing
-  - Modulation
-  - Decoder-focused Model
-  - Routing & NAS
-  - Others
-- Optimization
-- Task Relationship Learning & Grouping
-- Theory
-- Misc
+- [Survey](#survey)
+- [Benchmarks](#benchmarks)
+  - [Computer Vision](#computer-vision)
+  - [NLP](#nlp)
+  - [RL & Robotics](#rl--robotics)
+- [Architecture](#architecture)
+  - [Hard Parameter Sharing](#hard-parameter-sharing)
+  - [Soft Parameter Sharing](#soft-parameter-sharing)
+  - [Modulation](#modulation)
+  - [Decoder-focused Model](#decoder-focused-model)
+  - [Routing & NAS](#routing--nas)
+  - [Others](#others)
+- [Optimization](#optimization)
+- [Task Relationship Learning & Grouping](#task-relationship-learning--grouping)
+- [Theory](#theory)
+- [Misc](#misc)
 
 
 
@@ -52,7 +52,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Taskonomy [[URL](http://taskonomy.stanford.edu/)]
   - 26 Tasks: Scene Categorization, Semantic Segmentation, Edge Detection, Monocular Depth Estimation, Keypoint Detection, *etc*.
   - Zamir, A. R., Sax, A., Shen, W., Guibas, L. J., Malik, J., & Savarese, S.  [Taskonomy: Disentangling Task Transfer Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf). CVPR, 2018.
-- Vision Decathlon
+- Visual Domain Decathlon [[URL](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
   - 10 Datasets: ImageNet, Aircraft, CIFAR100, *etc*. 
   - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
 
