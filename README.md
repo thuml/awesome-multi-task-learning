@@ -70,6 +70,8 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Hard Parameter Sharing
 
+- Caruana, R. [Multitask Learning](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf). 1997.
+
 <p align="center">
   <img src="imgs/hard-parameter-sharing.png" alt="client-demo" width="600px" />
 </p>
@@ -168,5 +170,5 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
 - Zimin, A., & Lampert, C. H. [Tasks Without Borders: A New Approach to Online Multi-Task Learning](https://openreview.net/pdf?id=HkllV5Bs24). AMTL Workshop at ICML 2019.
 - Doersch, C., & Zisserman, A.  [Multi-task Self-Supervised Visual Learning](http://arxiv.org/abs/1708.07860). ICCV, 2017.
-- Smith, V., Chiang, C.-K., Sanjabi, M., & Talwalkar, A. S.  [Federated Multi-Task Learning](https://proceedings.neurips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf). NeurIPS 2017.
+- Smith, V., Chiang, C.-K., Sanjabi, M., & Talwalkar, A. S.  [Federated Multi-Task Learning](https://proceedings.neurips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf). NeurIPS, 2017.
 - Yang, Y., & Hospedales, T. M. [A Unified Perspective on Multi-Domain and Multi-Task Learning](http://arxiv.org/abs/1412.7489). ICLR, 2015.
