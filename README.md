@@ -16,10 +16,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Soft Parameter Sharing](#soft-parameter-sharing)
   - [Modulation](#modulation)
   - [Decoder-focused Model](#decoder-focused-model)
-  - [Routing & NAS](#routing--nas)
+  - [Modularity, Routing & NAS](#modularity-routing--nas)
   - [Others](#others)
 - [Optimization](#optimization)
-- [Task Relationship Learning & Grouping](#task-relationship-learning--grouping)
+- [Task Relationship Learning: Grouping, Hierarchy & Cascading](#task-relationship-learning-grouping-hierarchy--cascading)
 - [Theory](#theory)
 - [Misc](#misc)
 
