@@ -55,6 +55,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Visual Domain Decathlon [[URL](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
   - 10 Datasets: ImageNet, Aircraft, CIFAR100, *etc*. 
   - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
+- BDD100K [[URL](https://bdd-data.berkeley.edu/)]
+  - 10-task Driving Dataset
+  - Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., & Darrell, T.  [BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning](http://arxiv.org/abs/1805.04687). CVPR, 2020.
 
 ### NLP
 
@@ -62,7 +65,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### RL & Robotics
 
-:TODO:
+- MetaWorld [[URL](https://meta-world.github.io/)]
 
 
 
@@ -70,6 +73,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Hard Parameter Sharing
 
+- Kokkinos, I.  [UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](https://arxiv.org/abs/1609.02132). CVPR, 2017.
 - Caruana, R. [Multitask Learning](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf). 1997.
 
 <p align="center">
@@ -80,6 +84,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 - Ruder, S., Bingel, J., Augenstein, I., & Søgaard, A.  [Latent Multi-task Architecture Learning](https://arxiv.org/abs/1705.08142). AAAI, 2019.
 - Gao, Y., Ma, J., Zhao, M., Liu, W., & Yuille, A. L.  [NDDR-CNN: Layerwise Feature Fusing in Multi-Task CNNs by Neural Discriminative Dimensionality Reduction](https://arxiv.org/abs/1801.08297). CVPR, 2019.
+- Long, M., Cao, Z., Wang, J., & Yu, P. S.  [Learning Multiple Tasks with Multilinear Relationship Networks](https://proceedings.neurips.cc/paper/2017/file/03e0704b5690a2dee1861dc3ad3316c9-Paper.pdf). NeurIPS, 2017.
 - Misra, I., Shrivastava, A., Gupta, A., & Hebert, M.  [Cross-Stitch Networks for Multi-task Learning](https://arxiv.org/abs/1604.03539). CVPR, 2016.
 - Rusu, A. A., Rabinowitz, N. C., Desjardins, G., Soyer, H., Kirkpatrick, J., Kavukcuoglu, K., Pascanu, R., & Hadsell, R.  [Progressive Neural Networks](https://arxiv.org/abs/1606.04671). ArXiv, 2016.
 - Yang, Y., & Hospedales, T. [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391). ArXiv, 2016.
@@ -100,17 +105,23 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J.  [Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf). CVPR, 2019. 
 - Xu, D., Ouyang, W., Wang, X., & Sebe, N.  [PAD-Net: Multi-tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](https://arxiv.org/abs/1805.04409). CVPR, 2018.
 
-### Routing & NAS
+### Modularity, Routing & NAS
 
+- Yang, R., Xu, H., Wu, Y., & Wang, X.  [Multi-Task Reinforcement Learning with Soft Modularization](http://arxiv.org/abs/2003.13661). NeurIPS, 2020. 
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
 - Gao, Y., Bai, H., Jie, Z., Ma, J., Jia, K., & Liu, W. [MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning](https://arxiv.org/abs/2003.14058). CVPR, 2020.
 - Bragman, F., Tanno, R., Ourselin, S., Alexander, D., & Cardoso, J.  [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597). ICCV, 2019.
+- Ahn, C., Kim, E., & Oh, S.  [Deep Elastic Networks with Model Selection for Multi-Task Learning](http://arxiv.org/abs/1909.04860). ICCV, 2019. 
 - Ma, J., Zhao, Z., Chen, J., Li, A., Hong, L., & Chi, E. H.  [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/3788/3666). AAAI, 2019.
-- Maziarz, K., Kokiopoulou, E., Gesmundo, A., Sbaiz, L., Bartok, G., & Berent, J.  [Gumbel-Matrix Routing for Flexible Multi-task Learning](http://arxiv.org/abs/1910.04915). ArXiv,  2019.
+- Maziarz, K., Kokiopoulou, E., Gesmundo, A., Sbaiz, L., Bartok, G., & Berent, J.  [Flexible Multi-task Networks by Learning Parameter Allocation](http://arxiv.org/abs/1910.04915). ArXiv,  2019.
 - Newell, A., Jiang, L., Wang, C., Li, L.-J., & Deng, J.  [Feature Partitioning for Efficient Multi-Task Architectures](https://arxiv.org/abs/1908.04339). ArXiv, 2019.
 - Rosenbaum, C., Klinger, T., & Riemer, M.  [Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning](http://arxiv.org/abs/1711.01239). ICLR, 2018.
 - Meyerson, E., & Miikkulainen, R.  [Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering](http://arxiv.org/abs/1711.00108). ICLR, 2018.
+- Liang, J., Meyerson, E., & Miikkulainen, R.  [Evolutionary architecture search for deep multitask networks](https://arxiv.org/abs/1803.03745). *Proceedings of the Genetic and Evolutionary Computation Conference*, 2018.
+- Kim, E., Ahn, C., & Oh, S.  [NestedNet: Learning Nested Sparse Structures in Deep Neural Networks](https://openaccess.thecvf.com/content_cvpr_2018/papers/Kim_NestedNet_Learning_Nested_CVPR_2018_paper.pdf). CVPR, 2018.
+- Andreas, J., Klein, D., & Levine, S.  [Modular Multitask Reinforcement Learning with Policy Sketches](http://arxiv.org/abs/1611.01796). ICML, 2017.
+- Devin, C., Gupta, A., Darrell, T., Abbeel, P., & Levine, S.  [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](http://arxiv.org/abs/1609.07088). ICRA, 2017
 - Fernando, C., Banarse, D., Blundell, C., Zwols, Y., Ha, D., Rusu, A. A., Pritzel, A., & Wierstra, D.  [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](http://arxiv.org/abs/1701.08734). ArXiv, 2017. 
 
 ### Others
@@ -121,14 +132,13 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Zhang, Y., Wei, Y., & Yang, Q.  [Learning to Multitask](https://papers.nips.cc/paper/2018/file/aeefb050911334869a7a5d9e4d0e1689-Paper.pdf). NeurIPS, 2018.
 - Mallya, A., Davis, D., & Lazebnik, S.  [Piggyback: Adapting a Single Network to Multiple Tasks by Learning to Mask Weights](https://arxiv.org/abs/1801.06519). ECCV 2018.
 - Mallya, A., & Lazebnik, S.  [PackNet: Adding Multiple Tasks to a Single Network by Iterative Pruning](https://arxiv.org/abs/1711.05769). CVPR, 2018.
-- Kokkinos, I.  [UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](https://arxiv.org/abs/1609.02132). CVPR, 2017.
-- Long, M., Cao, Z., Wang, J., & Yu, P. S.  [Learning Multiple Tasks with Multilinear Relationship Networks](https://proceedings.neurips.cc/paper/2017/file/03e0704b5690a2dee1861dc3ad3316c9-Paper.pdf). NeurIPS, 2017.
 - Lee, G., Yang, E., & Hwang, S. J.  [Asymmetric Multi-task Learning based on Task Relatedness and Confidence](http://proceedings.mlr.press/v48/leeb16.pdf). ICML, 2016.
 
 
 
 ## Optimization
 
+- Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
 - Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C.  [Gradient Surgery for Multi-Task Learning](http://arxiv.org/abs/2001.06782). NeurIPS, 2020.
 - Ma, P., Du, T., & Matusik, W. [Effcient Continuous Pareto Exploration in Multi-Task Learning](https://arxiv.org/abs/2006.16434). ICML, 2020.
@@ -141,17 +151,19 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 
 
-## Task Relationship Learning & Grouping
+## Task Relationship Learning: Grouping, Hierarchy & Cascading
 
 - Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L.  [Branched Multi-Task Networks: Deciding What Layers To Share](http://arxiv.org/abs/1904.02920). BMVC, 2020.
 - Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S.  [Which Tasks Should Be Learned Together in Multi-task Learning?](http://arxiv.org/abs/1905.07553) ICML, 2020.
 - Guo, P., Lee, C.-Y., & Ulbricht, D.  [Learning to Branch for Multi-Task Learning](https://arxiv.org/abs/2006.01895). ICML, 2020.
 - Dwivedi, K., & Roig, G.  [Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning](https://arxiv.org/abs/1904.11740). CVPR, 2019.
 - Guo, H., Pasunuru, R., & Bansal, M. [AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning](https://arxiv.org/abs/1904.04153). NAACL, 2019.
+- Kim, J., Park, Y., Kim, G., & Hwang, S. J.  [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html). ICML, 2017.
 - Alonso, H. M., & Plank, B.  [When is multitask learning effective? Semantic sequence prediction under varying data conditions](http://arxiv.org/abs/1612.02251). EACL, 2017. 
 - Bingel, J., & Søgaard, A.  [Identifying beneficial task relations for multi-task learning in deep neural networks](http://arxiv.org/abs/1702.08303). EACL, 2017.
 - Hand, E. M., & Chellappa, R.  [Attributes for Improved Attributes: A Multi-Task Network Utilizing Implicit and Explicit Relationships for Facial Attribute Classiﬁcation](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14749/14282). AAAI, 2017.
 - Lu, Y., Kumar, A., Zhai, S., Cheng, Y., Javidi, T., & Feris, R.  [Fully-adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification](http://arxiv.org/abs/1611.05377). CVPR, 2017.
+- Søgaard, A., & Goldberg, Y.  [Deep multi-task learning with low level tasks supervised at lower layers](https://www.aclweb.org/anthology/P16-2038.pdf). ACL, 2016.
 - Kang, Z., Grauman, K., & Sha, F.  [Learning with Whom to Share in Multi-task Feature Learning](http://www.cs.utexas.edu/~grauman/papers/icml2011.pdf). ICML, 2011.
 - Kumar, A., & Daume III, H. [Learning Task Grouping and Overlap in Multi-task Learning](http://arxiv.org/abs/1206.6417). ICML, 2012.
 
@@ -159,6 +171,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Theory
 
+- Tiomoko, M., Ali, H. T., & Couillet, R. [Deciphering and Optimizing Multi-Task Learning: A Random Matrix Approach](https://openreview.net/forum?id=Cri3xz59ga). ICLR, 2021.
 - Tripuraneni, N., Jordan, M. I., & Jin, C.  [On the Theory of Transfer Learning: The Importance of Task Diversity](https://proceedings.neurips.cc//paper/2020/file/59587bffec1c7846f3e34230141556ae-Paper.pdf). NeurIPS, 2020.
 - Wu, S., Zhang, H. R., & Re, C.  [Understanding and Improving Information Transfer in Multi-Task Learning](https://arxiv.org/abs/2005.00944). ICLR, 2020.
 
@@ -170,7 +183,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
 - Zimin, A., & Lampert, C. H. [Tasks Without Borders: A New Approach to Online Multi-Task Learning](https://openreview.net/pdf?id=HkllV5Bs24). AMTL Workshop at ICML 2019.
+- Meyerson, E., & Miikkulainen, R.  [Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](http://arxiv.org/abs/1906.00097).  NeurIPS, 2019.
+- Meyerson, E., & Miikkulainen, R.  [Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing---and Back](http://arxiv.org/abs/1803.04062). ICML, 2018. 
+- Chou, Y.-M., Chan, Y.-M., Lee, J.-H., Chiu, C.-Y., & Chen, C.-S.  [Unifying and Merging Well-trained Deep Neural Networks for Inference Stage](http://arxiv.org/abs/1805.04980). IJCAI-ECAI, 2018.
 - Doersch, C., & Zisserman, A.  [Multi-task Self-Supervised Visual Learning](http://arxiv.org/abs/1708.07860). ICCV, 2017.
 - Smith, V., Chiang, C.-K., Sanjabi, M., & Talwalkar, A. S.  [Federated Multi-Task Learning](https://proceedings.neurips.cc/paper/2017/file/6211080fa89981f66b1a0c9d55c61d0f-Paper.pdf). NeurIPS, 2017.
 - Kaiser, L., Gomez, A. N., Shazeer, N., Vaswani, A., Parmar, N., Jones, L., & Uszkoreit, J.  [One Model To Learn Them All](http://arxiv.org/abs/1706.05137). ArXiv, 2017. 
+- Yang, Y., & Hospedales, T. M.  [Unifying Multi-Domain Multi-Task Learning: Tensor and Neural Network Perspectives](http://arxiv.org/abs/1611.09345). ArXiv,  2016.
 - Yang, Y., & Hospedales, T. M. [A Unified Perspective on Multi-Domain and Multi-Task Learning](http://arxiv.org/abs/1412.7489). ICLR, 2015.
+
