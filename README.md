@@ -29,6 +29,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 - Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L.  [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379). TPAMI, 2021.
 - Crawshaw, M.  [Multi-Task Learning with Deep Neural Networks: A Survey](http://arxiv.org/abs/2009.09796). ArXiv, 2020. 
+- Worsham, J., & Kalita, J.  [Multi-task learning for natural language processing in the 2020s: Where are we going?](https://doi.org/10.1016/j.patrec.2020.05.031) *Pattern Recognition Letters*, 2020.
 - Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., Keskin, G., & Elibol, O. H.  [A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks](https://ieeexplore.ieee.org/document/8848395). 2019.
 - Li, J., Liu, X., Yin, W., Yang, M., Ma, L., & Jin, Y.  [Empirical Evaluation of Multi-task Learning in Deep Neural Networks for Natural Language Processing](http://arxiv.org/abs/1908.07820). ArXiv, 2019.
 - Ruder, S.  [An Overview of Multi-Task Learning in Deep Neural Networks](http://arxiv.org/abs/1706.05098). ArXiv, 2017. 
@@ -138,16 +139,21 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Optimization
 
-- Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
-- Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
-- Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C.  [Gradient Surgery for Multi-Task Learning](http://arxiv.org/abs/2001.06782). NeurIPS, 2020.
+- **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
+- **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
+- **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
+- **[GradDrop]** Chen, Z., Ngiam, J., Huang, Y., Luong, T., Kretzschmar, H., Chai, Y., & Anguelov, D.  [Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout](https://proceedings.neurips.cc//paper/2020/file/16002f7a455a94aa4e91cc34ebdb9f2d-Paper.pdf). NeurIPS, 2020.
+- **[PCGrad]** Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C.  [Gradient Surgery for Multi-Task Learning](http://arxiv.org/abs/2001.06782). NeurIPS, 2020.
+- **[Dynamic Stop-and-Go (DSG)]** Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Ma, P., Du, T., & Matusik, W. [Effcient Continuous Pareto Exploration in Multi-Task Learning](https://arxiv.org/abs/2006.16434). ICML, 2020.
 - Lin, X., Zhen, H.-L., Li, Z., Zhang, Q.-F., & Kwong, S.  [Pareto Multi-Task Learning](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf). NeurIPS, 2019.
-- Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A.  [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://arxiv.org/abs/1711.02257). ICML, 2018.
-- Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
-- Kendall, A., Gal, Y., & Cipolla, R.  [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115). CVPR, 2018.
-- Sener, O., & Koltun, V.  [Multi-Task Learning as Multi-Objective Optimization](http://arxiv.org/abs/1810.04650). NeurIPS, 2018.
-- Zhang, Z., Luo, P., Loy, C. C., & Tang, X. [Facial Landmark Detection by Deep Multi-task Learning](https://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf). ECCV, 2014.
+- **[Geometric Loss Strategy (GLS)]** Chennupati, S., Sistu, G., Yogamani, S., & Rawashdeh, S. A.  [MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning](http://arxiv.org/abs/1904.08492). CVPR 2019 Workshop on Autonomous Driving (WAD).
+- **[Revised Uncertainty]** Liebel, L., & Körner, M. (2018). [Auxiliary Tasks in Multi-task Learning](http://arxiv.org/abs/1805.06334). Arxiv, 2018.
+- **[GradNorm]** Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A.  [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://arxiv.org/abs/1711.02257). ICML, 2018.
+- **[Dynamic Task Prioritization]** Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
+- **[Uncertainty]** Kendall, A., Gal, Y., & Cipolla, R.  [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115). CVPR, 2018.
+- **[MGDA]** Sener, O., & Koltun, V.  [Multi-Task Learning as Multi-Objective Optimization](http://arxiv.org/abs/1810.04650). NeurIPS, 2018.
+- **[Task-wise Early Stopping]** Zhang, Z., Luo, P., Loy, C. C., & Tang, X. [Facial Landmark Detection by Deep Multi-task Learning](https://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf). ECCV, 2014.
 
 
 
@@ -182,6 +188,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
+- Pramanik, S., Agrawal, P., & Hussain, A.  [OmniNet: A unified architecture for multi-modal multi-task learning](http://arxiv.org/abs/1907.07804). Arxiv, 2019.
 - Zimin, A., & Lampert, C. H. [Tasks Without Borders: A New Approach to Online Multi-Task Learning](https://openreview.net/pdf?id=HkllV5Bs24). AMTL Workshop at ICML 2019.
 - Meyerson, E., & Miikkulainen, R.  [Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](http://arxiv.org/abs/1906.00097).  NeurIPS, 2019.
 - Meyerson, E., & Miikkulainen, R.  [Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing---and Back](http://arxiv.org/abs/1803.04062). ICML, 2018. 
