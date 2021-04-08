@@ -97,9 +97,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Modulation
 
+- Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
+- Zhao, M., Lin, T., Mi, F., Jaggi, M., & Schütze, H.  [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](http://arxiv.org/abs/2004.12406). EMNLP, 2020.
 - Liu, S., Johns, E., & Davison, A. J.  [End-to-End Multi-Task Learning with Attention](http://arxiv.org/abs/1803.10704). CVPR, 2019. 
 - Strezoski, G., Noord, N., & Worring, M.  [Many Task Learning With Task Routing](https://arxiv.org/abs/1903.12117). ICCV, 2019.
 - Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
+- Houlsby, N., Giurgiu, A., Jastrzebski, S., Morrone, B., de Laroussilhe, Q., Gesmundo, A., Attariyan, M., & Gelly, S.  [Parameter-Efficient Transfer Learning for NLP](http://arxiv.org/abs/1902.00751). ICML, 2019.
 - Zhao, X., Li, H., Shen, X., Liang, X., & Wu, Y.  [A Modulation Module for Multi-task Learning with Applications in Image Retrieval](https://arxiv.org/abs/1807.06708). ECCV, 2018.
 - Rebuffi, S.-A., Vedaldi, A., & Bilen, H.  [Efficient Parametrization of Multi-domain Deep Neural Networks](https://arxiv.org/abs/1803.10082). CVPR, 2018.
 - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
@@ -214,9 +217,11 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Misc
 
+- Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
 - Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
+- Clark, K., Luong, M.-T., Khandelwal, U., Manning, C. D., & Le, Q. V.  [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://www.aclweb.org/anthology/P19-1595/). ACL, 2019.
 - Pramanik, S., Agrawal, P., & Hussain, A.  [OmniNet: A unified architecture for multi-modal multi-task learning](http://arxiv.org/abs/1907.07804). Arxiv, 2019.
 - Zimin, A., & Lampert, C. H. [Tasks Without Borders: A New Approach to Online Multi-Task Learning](https://openreview.net/pdf?id=HkllV5Bs24). AMTL Workshop at ICML 2019.
 - Meyerson, E., & Miikkulainen, R.  [Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](http://arxiv.org/abs/1906.00097).  NeurIPS, 2019.
