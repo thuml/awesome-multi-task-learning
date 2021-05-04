@@ -19,9 +19,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Modularity, Routing & NAS](#modularity-routing--nas)
   - [Others](#others)
 - [Optimization](#optimization)
-  - Loss Strategy
-  - Adversarial Training
-  - Pareto
+  - [Loss Strategy](#loss-strategy)
+  - [Adversarial Training](#adversarial-training)
+  - [Pareto](#pareto)
 - [Task Relationship Learning: Grouping, Hierarchy & Cascading](#task-relationship-learning-grouping-hierarchy--cascading)
 - [Theory](#theory)
 - [Misc](#misc)
