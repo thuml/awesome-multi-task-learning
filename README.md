@@ -99,6 +99,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Modulation
 
+- Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
 - Zhao, M., Lin, T., Mi, F., Jaggi, M., & Schütze, H.  [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](http://arxiv.org/abs/2004.12406). EMNLP, 2020.
 - Pfeiffer, J., Kamath, A., Rücklé, A., Cho, K., & Gurevych, I.  [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](http://arxiv.org/abs/2005.00247). ArXiv, 2020.
