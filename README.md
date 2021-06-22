@@ -179,6 +179,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - The weights are inversely proportional to average of each loss.
 - **[Task-wise Early Stopping]** Zhang, Z., Luo, P., Loy, C. C., & Tang, X. [Facial Landmark Detection by Deep Multi-task Learning](https://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf). ECCV, 2014.
 
+*Note*: 
+
+- We find that **AdaLoss**, **IMTL-l**, and **Uncertainty** are quite similiar in form.
+
 ### Adversarial Training
 
 - Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
