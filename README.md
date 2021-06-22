@@ -103,7 +103,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
 - Zhao, M., Lin, T., Mi, F., Jaggi, M., & Schütze, H.  [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](http://arxiv.org/abs/2004.12406). EMNLP, 2020.
 - Pfeiffer, J., Kamath, A., Rücklé, A., Cho, K., & Gurevych, I.  [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](http://arxiv.org/abs/2005.00247). ArXiv, 2020.
-- Liu, S., Johns, E., & Davison, A. J.  [End-to-End Multi-Task Learning with Attention](http://arxiv.org/abs/1803.10704). CVPR, 2019. 
+- **[MTAN]** Liu, S., Johns, E., & Davison, A. J.  [End-to-End Multi-Task Learning with Attention](http://arxiv.org/abs/1803.10704). CVPR, 2019. 
 - Strezoski, G., Noord, N., & Worring, M.  [Many Task Learning With Task Routing](https://arxiv.org/abs/1903.12117). ICCV, 2019.
 - Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
 - Houlsby, N., Giurgiu, A., Jastrzebski, S., Morrone, B., de Laroussilhe, Q., Gesmundo, A., Attariyan, M., & Gelly, S.  [Parameter-Efficient Transfer Learning for NLP](http://arxiv.org/abs/1902.00751). ICML, 2019.
@@ -128,6 +128,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Ma, J., Zhao, Z., Chen, J., Li, A., Hong, L., & Chi, E. H.  [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/3788/3666). AAAI, 2019.
 - Maziarz, K., Kokiopoulou, E., Gesmundo, A., Sbaiz, L., Bartok, G., & Berent, J.  [Flexible Multi-task Networks by Learning Parameter Allocation](http://arxiv.org/abs/1910.04915). ArXiv,  2019.
 - Newell, A., Jiang, L., Wang, C., Li, L.-J., & Deng, J.  [Feature Partitioning for Efficient Multi-Task Architectures](https://arxiv.org/abs/1908.04339). ArXiv, 2019.
+- **[MMoE]** Ma, J., Zhao, Z., Yi, X., Chen, J., Hong, L., & Chi, E. H.  [Modeling Task Relationships in Multi-task Learning with Multi-gate Mixture-of-Experts](https://dl.acm.org/doi/pdf/10.1145/3219819.3220007). KDD, 2018.
 - Rosenbaum, C., Klinger, T., & Riemer, M.  [Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning](http://arxiv.org/abs/1711.01239). ICLR, 2018.
 - Meyerson, E., & Miikkulainen, R.  [Beyond Shared Hierarchies: Deep Multitask Learning through Soft Layer Ordering](http://arxiv.org/abs/1711.00108). ICLR, 2018.
 - Liang, J., Meyerson, E., & Miikkulainen, R.  [Evolutionary architecture search for deep multitask networks](https://arxiv.org/abs/1803.03745). *Proceedings of the Genetic and Evolutionary Computation Conference*, 2018.
