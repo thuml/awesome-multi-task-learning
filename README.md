@@ -33,10 +33,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L.  [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379). TPAMI, 2021.
 - Crawshaw, M.  [Multi-Task Learning with Deep Neural Networks: A Survey](http://arxiv.org/abs/2009.09796). ArXiv, 2020. 
 - Worsham, J., & Kalita, J.  [Multi-task learning for natural language processing in the 2020s: Where are we going?](https://doi.org/10.1016/j.patrec.2020.05.031) *Pattern Recognition Letters*, 2020.
-- Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., Keskin, G., & Elibol, O. H.  [A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks](https://ieeexplore.ieee.org/document/8848395). 2019.
-- Li, J., Liu, X., Yin, W., Yang, M., Ma, L., & Jin, Y.  [Empirical Evaluation of Multi-task Learning in Deep Neural Networks for Natural Language Processing](http://arxiv.org/abs/1908.07820). ArXiv, 2019.
+- Gong, T., Lee, T., Stephenson, C., Renduchintala, V., Padhy, S., Ndirango, A., Keskin, G., & Elibol, O. H.  [A Comparison of Loss Weighting Strategies for Multi task Learning in Deep Neural Networks](https://ieeexplore.ieee.org/document/8848395). IEEE Access, 2019.
+- Li, J., Liu, X., Yin, W., Yang, M., Ma, L., & Jin, Y.  [Empirical Evaluation of Multi-task Learning in Deep Neural Networks for Natural Language Processing](https://link.springer.com/article/10.1007/s00521-020-05268-w). Neural Computing and Applications, 2021.
 - Ruder, S.  [An Overview of Multi-Task Learning in Deep Neural Networks](http://arxiv.org/abs/1706.05098). ArXiv, 2017. 
-- Zhang, Y., & Yang, Q.  [A Survey on Multi-Task Learning](http://arxiv.org/abs/1707.08114). ArXiv, 2017.
+- Zhang, Y., & Yang, Q.  [A Survey on Multi-Task Learning](https://ieeexplore.ieee.org/abstract/document/9392366). IEEE TKDE, 2021.
 
 
 
@@ -94,8 +94,8 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Long, M., Cao, Z., Wang, J., & Yu, P. S.  [Learning Multiple Tasks with Multilinear Relationship Networks](https://proceedings.neurips.cc/paper/2017/file/03e0704b5690a2dee1861dc3ad3316c9-Paper.pdf). NeurIPS, 2017.
 - Misra, I., Shrivastava, A., Gupta, A., & Hebert, M.  [Cross-Stitch Networks for Multi-task Learning](https://arxiv.org/abs/1604.03539). CVPR, 2016.
 - Rusu, A. A., Rabinowitz, N. C., Desjardins, G., Soyer, H., Kirkpatrick, J., Kavukcuoglu, K., Pascanu, R., & Hadsell, R.  [Progressive Neural Networks](https://arxiv.org/abs/1606.04671). ArXiv, 2016.
-- Yang, Y., & Hospedales, T. [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391). ArXiv, 2016.
-- Yang, Y., & Hospedales, T. M. [Trace Norm Regularised Deep Multi-Task Learning](http://arxiv.org/abs/1606.04038). ArXiv, 2016.
+- Yang, Y., & Hospedales, T. [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391). ICLR, 2017.
+- Yang, Y., & Hospedales, T. M. [Trace Norm Regularised Deep Multi-Task Learning](http://arxiv.org/abs/1606.04038). ICLR Workshop, 2017.
 
 ### Modulation
 
