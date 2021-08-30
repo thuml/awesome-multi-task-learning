@@ -114,6 +114,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Decoder-focused Model
 
+- Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L.  [Exploring Relational Context for Multi-Task Dense Prediction](http://arxiv.org/abs/2104.13874). ICCV, 2021. 
 - Vandenhende, S., Georgoulis, S., & Van Gool, L.  [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](http://arxiv.org/abs/2001.06902). ECCV, 2020.
 - Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J.  [Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf). CVPR, 2019. 
 - Xu, D., Ouyang, W., Wang, X., & Sebe, N.  [PAD-Net: Multi-tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](https://arxiv.org/abs/1805.04409). CVPR, 2018.
