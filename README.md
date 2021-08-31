@@ -22,6 +22,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Loss Strategy](#loss-strategy)
   - [Adversarial Training](#adversarial-training)
   - [Pareto](#pareto)
+  - [Distillation](#distillation)
 - [Task Relationship Learning: Grouping, Hierarchy & Cascading](#task-relationship-learning-grouping-hierarchy--cascading)
 - [Theory](#theory)
 - [Misc](#misc)
@@ -198,6 +199,11 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Ma, P., Du, T., & Matusik, W. [Effcient Continuous Pareto Exploration in Multi-Task Learning](https://arxiv.org/abs/2006.16434). ICML, 2020.
 - Lin, X., Zhen, H.-L., Li, Z., Zhang, Q.-F., & Kwong, S.  [Pareto Multi-Task Learning](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf). NeurIPS, 2019.
 
+### Distillation
+
+- Ghiasi, G., Zoph, B., Cubuk, E. D., Le, Q. V., & Lin, T.-Y.  [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353). ICCV, 2021.
+- Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
+
 
 
 ## Task Relationship Learning: Grouping, Hierarchy & Cascading
@@ -228,7 +234,6 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Misc
 
-- Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
 - Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
