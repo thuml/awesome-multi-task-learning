@@ -209,6 +209,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Task Relationship Learning: Grouping, Hierarchy & Cascading
 
+- Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Efficiently Identifying Task Groupings for Multi-Task Learning](http://arxiv.org/abs/2109.04617). ArXiv, 2021.
 - Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L.  [Branched Multi-Task Networks: Deciding What Layers To Share](http://arxiv.org/abs/1904.02920). BMVC, 2020.
 - Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S.  [Which Tasks Should Be Learned Together in Multi-task Learning?](http://arxiv.org/abs/1905.07553) ICML, 2020.
 - Guo, P., Lee, C.-Y., & Ulbricht, D.  [Learning to Branch for Multi-Task Learning](https://arxiv.org/abs/2006.01895). ICML, 2020.
