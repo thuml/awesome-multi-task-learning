@@ -19,7 +19,8 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Modularity, Routing & NAS](#modularity-routing--nas)
   - [Others](#others)
 - [Optimization](#optimization)
-  - [Loss Strategy](#loss-strategy)
+  - [Loss & Gradient Strategy](#loss--gradient-strategy)
+  - [Task Sampling](#task-sampling)
   - [Adversarial Training](#adversarial-training)
   - [Pareto](#pareto)
   - [Distillation](#distillation)
@@ -155,7 +156,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Optimization
 
-### Loss Strategy
+### Loss & Gradient Strategy
 
 - **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
 - **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
@@ -186,6 +187,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 *Note*: 
 
 - We find that **AdaLoss**, **IMTL-l**, and **Uncertainty** are quite similiar in form.
+
+### Task Sampling
+
+- **[MT-Uncertainty Sampling]** Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 
 ### Adversarial Training
 
