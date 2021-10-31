@@ -191,6 +191,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 ### Task Sampling
 
 - **[MT-Uncertainty Sampling]** Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
+- Glover, J., & Hokamp, C.  [Task Selection Policies for Multitask Learning](http://arxiv.org/abs/1907.06214). ArXiv, 2019. 
 
 ### Adversarial Training
 
