@@ -111,6 +111,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Strezoski, G., Noord, N., & Worring, M.  [Many Task Learning With Task Routing](https://arxiv.org/abs/1903.12117). ICCV, 2019.
 - Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
 - Houlsby, N., Giurgiu, A., Jastrzebski, S., Morrone, B., de Laroussilhe, Q., Gesmundo, A., Attariyan, M., & Gelly, S.  [Parameter-Efficient Transfer Learning for NLP](http://arxiv.org/abs/1902.00751). ICML, 2019.
+- Stickland, A. C., & Murray, I.  [BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning](http://arxiv.org/abs/1902.02671). ICML, 2019.
 - Zhao, X., Li, H., Shen, X., Liang, X., & Wu, Y.  [A Modulation Module for Multi-task Learning with Applications in Image Retrieval](https://arxiv.org/abs/1807.06708). ECCV, 2018.
 - Rebuffi, S.-A., Vedaldi, A., & Bilen, H.  [Efficient Parametrization of Multi-domain Deep Neural Networks](https://arxiv.org/abs/1803.10082). CVPR, 2018.
 - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
