@@ -14,7 +14,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - [Architecture](#architecture)
   - [Hard Parameter Sharing](#hard-parameter-sharing)
   - [Soft Parameter Sharing](#soft-parameter-sharing)
-  - [Modulation](#modulation)
+  - [Modulation & Adapters](#modulation--adapters)
   - [Decoder-focused Model](#decoder-focused-model)
   - [Modularity, Routing & NAS](#modularity-routing--nas)
   - [Others](#others)
@@ -100,11 +100,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Yang, Y., & Hospedales, T. [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391). ICLR, 2017.
 - Yang, Y., & Hospedales, T. M. [Trace Norm Regularised Deep Multi-Task Learning](http://arxiv.org/abs/1606.04038). ICLR Workshop, 2017.
 
-### Modulation
+### Modulation & Adapters
 
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.  [Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](http://arxiv.org/abs/2007.12540). ECCV, 2020.
 - Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
+- Pfeiffer, J., Vulić, I., Gurevych, I., & Ruder, S.  [MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer](https://doi.org/10.18653/v1/2020.emnlp-main.617). EMNLP, 2020.
 - Zhao, M., Lin, T., Mi, F., Jaggi, M., & Schütze, H.  [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](http://arxiv.org/abs/2004.12406). EMNLP, 2020.
 - Pfeiffer, J., Kamath, A., Rücklé, A., Cho, K., & Gurevych, I.  [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](http://arxiv.org/abs/2005.00247). ArXiv, 2020.
 - **[MTAN]** Liu, S., Johns, E., & Davison, A. J.  [End-to-End Multi-Task Learning with Attention](http://arxiv.org/abs/1803.10704). CVPR, 2019. 
