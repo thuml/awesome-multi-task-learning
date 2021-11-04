@@ -159,6 +159,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Loss & Gradient Strategy
 
+- **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  **Conflict-Averse Gradient Descent for Multi-task Learning**. NeurIPS, 2021.
 - **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
 - **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
