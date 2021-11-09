@@ -102,6 +102,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Modulation & Adapters
 
+- Zhu, Y., Feng, J., Zhao, C., Wang, M., & Li, L.  [Counter-Interference Adapter for Multilingual Machine Translation](https://aclanthology.org/2021.findings-emnlp.240). Findings of EMNLP, 2021. 
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.  [Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](http://arxiv.org/abs/2007.12540). ECCV, 2020.
 - Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
