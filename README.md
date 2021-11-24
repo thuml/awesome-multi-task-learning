@@ -17,6 +17,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Modulation & Adapters](#modulation--adapters)
   - [Decoder-focused Model](#decoder-focused-model)
   - [Modularity, Routing & NAS](#modularity-routing--nas)
+  - [Task Representation](#task-representation)
   - [Others](#others)
 - [Optimization](#optimization)
   - [Loss & Gradient Strategy](#loss--gradient-strategy)
@@ -102,6 +103,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Modulation & Adapters
 
+- He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ArXiv, 2021.
 - Zhu, Y., Feng, J., Zhao, C., Wang, M., & Li, L.  [Counter-Interference Adapter for Multilingual Machine Translation](https://aclanthology.org/2021.findings-emnlp.240). Findings of EMNLP, 2021. 
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.  [Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](http://arxiv.org/abs/2007.12540). ECCV, 2020.
@@ -144,6 +146,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Andreas, J., Klein, D., & Levine, S.  [Modular Multitask Reinforcement Learning with Policy Sketches](http://arxiv.org/abs/1611.01796). ICML, 2017.
 - Devin, C., Gupta, A., Darrell, T., Abbeel, P., & Levine, S.  [Learning Modular Neural Network Policies for Multi-Task and Multi-Robot Transfer](http://arxiv.org/abs/1609.07088). ICRA, 2017
 - Fernando, C., Banarse, D., Blundell, C., Zwols, Y., Ha, D., Rusu, A. A., Pritzel, A., & Wierstra, D.  [PathNet: Evolution Channels Gradient Descent in Super Neural Networks](http://arxiv.org/abs/1701.08734). ArXiv, 2017. 
+
+### Task Representation
+
+- Sodhani, S., Zhang, A., & Pineau, J. [Multi-Task Reinforcement Learning with Context-based Representations](http://arxiv.org/abs/2102.06177). ICML, 2021. 
 
 ### Others
 
