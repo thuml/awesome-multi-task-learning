@@ -133,6 +133,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
 - Gao, Y., Bai, H., Jie, Z., Ma, J., Jia, K., & Liu, W. [MTL-NAS: Task-Agnostic Neural Architecture Search towards General-Purpose Multi-Task Learning](https://arxiv.org/abs/2003.14058). CVPR, 2020.
+- **[PLE]** Tang, H., Liu, J., Zhao, M., & Gong, X.  [Progressive Layered Extraction (PLE): A Novel Multi-Task Learning (MTL) Model for Personalized Recommendations](https://doi.org/10.1145/3383313.3412236). RecSys, 2020.
 - Bragman, F., Tanno, R., Ourselin, S., Alexander, D., & Cardoso, J.  [Stochastic Filter Groups for Multi-Task CNNs: Learning Specialist and Generalist Convolution Kernels](https://arxiv.org/abs/1908.09597). ICCV, 2019.
 - Ahn, C., Kim, E., & Oh, S.  [Deep Elastic Networks with Model Selection for Multi-Task Learning](http://arxiv.org/abs/1909.04860). ICCV, 2019. 
 - Ma, J., Zhao, Z., Chen, J., Li, A., Hong, L., & Chi, E. H.  [SNR: Sub-Network Routing for Flexible Parameter Sharing in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/3788/3666). AAAI, 2019.
