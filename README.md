@@ -78,7 +78,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### NLP
 
-:TODO:
+- GLUE \- General Language Understanding Evaluation [[URL\]](https://gluebenchmark.com/)
 
 ### RL & Robotics
 
