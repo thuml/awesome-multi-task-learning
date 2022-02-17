@@ -11,6 +11,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [Computer Vision](#computer-vision)
   - [NLP](#nlp)
   - [RL & Robotics](#rl--robotics)
+  - [Graph](#graph)
 - [Architecture](#architecture)
   - [Hard Parameter Sharing](#hard-parameter-sharing)
   - [Soft Parameter Sharing](#soft-parameter-sharing)
@@ -47,6 +48,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Computer Vision
 
+- MultiMNIST/MultiFashionMNIST
+  - a multitask variant of the MNIST/FashionMNIST dataset
+  - **[ ! ]** *Toy datasets*
+  - Reference: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413).
 - NYUv2 [[URL](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
   - 3 Tasks: Semantic Segmentation, Depth Estimation, Surface Normal Estimation
   - Silberman, N., Hoiem, D., Kohli, P., & Fergus, R. (2012). [Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf). ECCV, 2012.
@@ -61,6 +66,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - Zamir, A. R., Sax, A., Shen, W., Guibas, L. J., Malik, J., & Savarese, S.  [Taskonomy: Disentangling Task Transfer Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf). CVPR, 2018.
 - Visual Domain Decathlon [[URL](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
   - 10 Datasets: ImageNet, Aircraft, CIFAR100, *etc*. 
+  - Multi-domain multi-task learning
   - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
 - BDD100K [[URL](https://bdd-data.berkeley.edu/)]
   - 10-task Driving Dataset
@@ -73,6 +79,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 ### RL & Robotics
 
 - MetaWorld [[URL](https://meta-world.github.io/)]
+
+### Graph
+
+- QM9 [[URL](https://www.nature.com/articles/sdata201422)]
+  - 11 properties of molecules; multi-task regression
+  - Reference: [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017).
 
 
 
@@ -186,9 +198,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - **[Geometric Loss Strategy (GLS)]** Chennupati, S., Sistu, G., Yogamani, S., & Rawashdeh, S. A.  [MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning](http://arxiv.org/abs/1904.08492). CVPR 2019 Workshop on Autonomous Driving (WAD).
 - **[Orthogonal]** Suteu, M., & Guo, Y.  [Regularizing Deep Multi-Task Networks using Orthogonal Gradients](http://arxiv.org/abs/1912.06844). Arxiv, 2019. 
   - Enforcing near orthogonal gradients
-- Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B.  [Adapting Auxiliary Losses Using Gradient Similarity](http://arxiv.org/abs/1812.02224). Arxiv, 2018.
+- **[Cosine Similarity]** Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B.  [Adapting Auxiliary Losses Using Gradient Similarity](http://arxiv.org/abs/1812.02224). Arxiv, 2018.
   - Uses a thresholded cosine similarity to determine whether to use each auxiliary task.
-  - Extension: OL-AUX
+  - Extension: **OL-AUX**
 - **[Revised Uncertainty]** Liebel, L., & Körner, M.  [Auxiliary Tasks in Multi-task Learning](http://arxiv.org/abs/1805.06334). Arxiv, 2018.
 - **[GradNorm]** Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A.  [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://arxiv.org/abs/1711.02257). ICML, 2018.
 - **[Dynamic Task Prioritization]** Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
