@@ -51,7 +51,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - MultiMNIST/MultiFashionMNIST
   - a multitask variant of the MNIST/FashionMNIST dataset
   - **[ ! ]** *Toy datasets*
-  - Reference: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413).
+  - Reference: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413), *etc*.
 - NYUv2 [[URL](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
   - 3 Tasks: Semantic Segmentation, Depth Estimation, Surface Normal Estimation
   - Silberman, N., Hoiem, D., Kohli, P., & Fergus, R. (2012). [Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf). ECCV, 2012.
@@ -71,6 +71,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - BDD100K [[URL](https://bdd-data.berkeley.edu/)]
   - 10-task Driving Dataset
   - Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., & Darrell, T.  [BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning](http://arxiv.org/abs/1805.04687). CVPR, 2020.
+- MS COCO
+  - Object detection, pose estimation, semantic segmentation.
+  - Reference: [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060).
+
 
 ### NLP
 
@@ -181,7 +185,8 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Loss & Gradient Strategy
 
-- Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). ArXiv, 2022. 
+- **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). ArXiv, 2022. 
+  - Minimize the multi-task training objective with a standard gradient-based algorithm.
 - **[Nash-MTL]** Navon, A., Shamsian, A., Achituve, I., Maron, H., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017). Arxiv, 2022. 
 - **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/abs/2110.14048). NeurIPS, 2021.
 - **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
@@ -222,9 +227,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 ### Adversarial Training
 
 - Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
-
 - Sinha, A., Chen, Z., Badrinarayanan, V., & Rabinovich, A.  [Gradient Adversarial Training of Neural Networks](http://arxiv.org/abs/1806.08028). Arxiv, 2018.
-
 - Liu, P., Qiu, X., & Huang, X.  [Adversarial Multi-task Learning for Text Classification](http://arxiv.org/abs/1704.05742). ACL, 2017.
 
 ### Pareto
@@ -241,7 +244,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Task Relationship Learning: Grouping, Hierarchy & Cascading
 
-- Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Efficiently Identifying Task Groupings for Multi-Task Learning](http://arxiv.org/abs/2109.04617). ArXiv, 2021.
+- Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Efficiently Identifying Task Groupings for Multi-Task Learning](http://arxiv.org/abs/2109.04617). NeurIPS, 2021.
 - Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L.  [Branched Multi-Task Networks: Deciding What Layers To Share](http://arxiv.org/abs/1904.02920). BMVC, 2020.
 - Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S.  [Which Tasks Should Be Learned Together in Multi-task Learning?](http://arxiv.org/abs/1905.07553) ICML, 2020.
 - Guo, P., Lee, C.-Y., & Ulbricht, D.  [Learning to Branch for Multi-Task Learning](https://arxiv.org/abs/2006.01895). ICML, 2020.
