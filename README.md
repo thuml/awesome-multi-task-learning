@@ -95,9 +95,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Codebase
 
-- [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning.
-- [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures.
-- [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention" [CVPR 2019].
+- [mt-dnn](https://github.com/namisan/mt-dnn): Multi-Task Deep Neural Networks for Natural Language Understanding
+- [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
+- [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
+- [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
 - [astmt](https://github.com/facebookresearch/astmt): Attentive Single-tasking of Multiple Tasks
 
 
