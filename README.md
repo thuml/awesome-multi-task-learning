@@ -158,7 +158,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### Modularity, Routing & NAS
 
+- Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [One Model, Multiple Tasks: Pathways for Natural Language Understanding](https://arxiv.org/abs/2203.03312). Arxiv, 2022.
 - Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). Arxiv, 2022.
+- **[Pathways]** *Introducing Pathways: A next-generation AI architecture*. (n.d.). Retrieved March 9, 2022, from https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
 - Yang, R., Xu, H., Wu, Y., & Wang, X.  [Multi-Task Reinforcement Learning with Soft Modularization](http://arxiv.org/abs/2003.13661). NeurIPS, 2020. 
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
