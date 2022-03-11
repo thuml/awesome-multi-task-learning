@@ -299,6 +299,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Theory
 
+- Wang, H., Zhao, H., & Li, B.  [Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation](http://arxiv.org/abs/2106.09017). ICML, 2021.
 - Tiomoko, M., Ali, H. T., & Couillet, R. [Deciphering and Optimizing Multi-Task Learning: A Random Matrix Approach](https://openreview.net/forum?id=Cri3xz59ga). ICLR, 2021.
 - Tripuraneni, N., Jordan, M. I., & Jin, C.  [On the Theory of Transfer Learning: The Importance of Task Diversity](https://proceedings.neurips.cc//paper/2020/file/59587bffec1c7846f3e34230141556ae-Paper.pdf). NeurIPS, 2020.
 - Wu, S., Zhang, H. R., & Re, C.  [Understanding and Improving Information Transfer in Multi-Task Learning](https://arxiv.org/abs/2005.00944). ICLR, 2020.
