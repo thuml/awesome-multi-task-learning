@@ -12,6 +12,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - [NLP](#nlp)
   - [RL & Robotics](#rl--robotics)
   - [Graph](#graph)
+  - [Recommendation](#recommendation)
 - [Codebase](#codebase)
 - [Architecture](#architecture)
   - [Hard Parameter Sharing](#hard-parameter-sharing)
@@ -91,6 +92,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - QM9 [[URL](https://www.nature.com/articles/sdata201422)]
   - 11 properties of molecules; multi-task regression
   - Reference: [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017).
+
+### Recommendation
+
+- MovieLens [[URL](https://www.tensorflow.org/datasets/catalog/movielens)]
+  - 2 Task: binary classiﬁcation (whether the user will watch) & regression (user’s rating)
+  - Reference: [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760)
 
 
 
