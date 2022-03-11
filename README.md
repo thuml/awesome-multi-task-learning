@@ -105,21 +105,16 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 - **General**
   - [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
-
 - **Computer Vision**
   - [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
   - [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
   - [astmt](https://github.com/facebookresearch/astmt): Attentive Single-tasking of Multiple Tasks
-
 - **NLP**
   - [mt-dnn](https://github.com/namisan/mt-dnn): Multi-Task Deep Neural Networks for Natural Language Understanding
-
 - **Recommendation System**
   - [MTReclib](https://github.com/easezyc/Multitask-Recommendation-Library): MTReclib provides a PyTorch implementation of multi-task recommendation models and common datasets.
-
 - **RL**
   - [mtrl](https://github.com/facebookresearch/mtrl): Multi Task RL Baselines
-
 
 
 
