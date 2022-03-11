@@ -16,9 +16,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - [Architecture](#architecture)
   - [Hard Parameter Sharing](#hard-parameter-sharing)
   - [Soft Parameter Sharing](#soft-parameter-sharing)
-  - [Modulation & Adapters](#modulation--adapters)
   - [Decoder-focused Model](#decoder-focused-model)
-  - [Modularity, Routing & NAS](#modularity-routing--nas)
+  - [Modulation & Adapters](#modulation--adapters)
+  - [Modularity, MoE, Routing & NAS](#modularity-moe-routing--nas)
   - [Task Representation](#task-representation)
   - [Others](#others)
 - [Optimization](#optimization)
@@ -79,11 +79,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ### NLP
 
-- GLUE \- General Language Understanding Evaluation [[URL\]](https://gluebenchmark.com/)
+- GLUE \- General Language Understanding Evaluation [[URL](https://gluebenchmark.com/)]
 
 ### RL & Robotics
 
 - MetaWorld [[URL](https://meta-world.github.io/)]
+- MTEnv [[URL](https://github.com/facebookresearch/mtenv)]
 
 ### Graph
 
@@ -95,12 +96,23 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Codebase
 
-- [mt-dnn](https://github.com/namisan/mt-dnn): Multi-Task Deep Neural Networks for Natural Language Understanding
-- [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
-- [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
-- [MTReclib](https://github.com/easezyc/Multitask-Recommendation-Library): MTReclib provides a PyTorch implementation of multi-task recommendation models and common datasets.
-- [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
-- [astmt](https://github.com/facebookresearch/astmt): Attentive Single-tasking of Multiple Tasks
+- **General**
+  - [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
+
+- **Computer Vision**
+  - [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
+  - [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
+  - [astmt](https://github.com/facebookresearch/astmt): Attentive Single-tasking of Multiple Tasks
+
+- **NLP**
+  - [mt-dnn](https://github.com/namisan/mt-dnn): Multi-Task Deep Neural Networks for Natural Language Understanding
+
+- **Recommendation System**
+  - [MTReclib](https://github.com/easezyc/Multitask-Recommendation-Library): MTReclib provides a PyTorch implementation of multi-task recommendation models and common datasets.
+
+- **RL**
+  - [mtrl](https://github.com/facebookresearch/mtrl): Multi Task RL Baselines
+
 
 
 
@@ -129,6 +141,13 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Yang, Y., & Hospedales, T. [Deep Multi-task Representation Learning: A Tensor Factorisation Approach](https://arxiv.org/abs/1605.06391). ICLR, 2017.
 - Yang, Y., & Hospedales, T. M. [Trace Norm Regularised Deep Multi-Task Learning](http://arxiv.org/abs/1606.04038). ICLR Workshop, 2017.
 
+### Decoder-focused Model
+
+- Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L.  [Exploring Relational Context for Multi-Task Dense Prediction](http://arxiv.org/abs/2104.13874). ICCV, 2021. 
+- Vandenhende, S., Georgoulis, S., & Van Gool, L.  [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](http://arxiv.org/abs/2001.06902). ECCV, 2020.
+- Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J.  [Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf). CVPR, 2019. 
+- Xu, D., Ouyang, W., Wang, X., & Sebe, N.  [PAD-Net: Multi-tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](https://arxiv.org/abs/1805.04409). CVPR, 2018.
+
 ### Modulation & Adapters
 
 - He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ArXiv, 2021.
@@ -149,18 +168,12 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Rebuffi, S.-A., Vedaldi, A., & Bilen, H.  [Efficient Parametrization of Multi-domain Deep Neural Networks](https://arxiv.org/abs/1803.10082). CVPR, 2018.
 - Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
 
-### Decoder-focused Model
-
-- Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L.  [Exploring Relational Context for Multi-Task Dense Prediction](http://arxiv.org/abs/2104.13874). ICCV, 2021. 
-- Vandenhende, S., Georgoulis, S., & Van Gool, L.  [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](http://arxiv.org/abs/2001.06902). ECCV, 2020.
-- Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J.  [Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf). CVPR, 2019. 
-- Xu, D., Ouyang, W., Wang, X., & Sebe, N.  [PAD-Net: Multi-tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](https://arxiv.org/abs/1805.04409). CVPR, 2018.
-
-### Modularity, Routing & NAS
+### Modularity, MoE, Routing & NAS
 
 - Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [One Model, Multiple Tasks: Pathways for Natural Language Understanding](https://arxiv.org/abs/2203.03312). Arxiv, 2022.
 - Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). Arxiv, 2022.
-- **[Pathways]** *Introducing Pathways: A next-generation AI architecture*. (n.d.). Retrieved March 9, 2022, from https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
+- Hazimeh, H., Zhao, Z., Chowdhery, A., Sathiamoorthy, M., Chen, Y., Mazumder, R., Hong, L., & Chi, E. H.  [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760). NeurIPS, 2021.
+- **[Pathways]** *Introducing Pathways: A next-generation AI architecture*. Oct 28, 2021. Retrieved March 9, 2022, from https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
 - Yang, R., Xu, H., Wu, Y., & Wang, X.  [Multi-Task Reinforcement Learning with Soft Modularization](http://arxiv.org/abs/2003.13661). NeurIPS, 2020. 
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
