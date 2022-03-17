@@ -65,7 +65,6 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
   - Tasks: 40 human face Attributes.
 - Taskonomy [[URL](http://taskonomy.stanford.edu/)]
   - 26 Tasks: Scene Categorization, Semantic Segmentation, Edge Detection, Monocular Depth Estimation, Keypoint Detection, *etc*.
-  - Zamir, A. R., Sax, A., Shen, W., Guibas, L. J., Malik, J., & Savarese, S.  [Taskonomy: Disentangling Task Transfer Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf). CVPR, 2018.
 - Visual Domain Decathlon [[URL](https://www.robots.ox.ac.uk/~vgg/decathlon/)]
   - 10 Datasets: ImageNet, Aircraft, CIFAR100, *etc*. 
   - Multi-domain multi-task learning
@@ -279,8 +278,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L.  [Branched Multi-Task Networks: Deciding What Layers To Share](http://arxiv.org/abs/1904.02920). BMVC, 2020.
 - Standley, T., Zamir, A. R., Chen, D., Guibas, L., Malik, J., & Savarese, S.  [Which Tasks Should Be Learned Together in Multi-task Learning?](http://arxiv.org/abs/1905.07553) ICML, 2020.
 - Guo, P., Lee, C.-Y., & Ulbricht, D.  [Learning to Branch for Multi-Task Learning](https://arxiv.org/abs/2006.01895). ICML, 2020.
+- Achille, A., Lam, M., Tewari, R., Ravichandran, A., Maji, S., Fowlkes, C., Soatto, S., & Perona, P.  [Task2Vec: Task Embedding for Meta-Learning](https://doi.org/10.1109/ICCV.2019.00653). ICCV, 2019.
 - Dwivedi, K., & Roig, G.  [Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning](https://arxiv.org/abs/1904.11740). CVPR, 2019.
 - Guo, H., Pasunuru, R., & Bansal, M. [AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning](https://arxiv.org/abs/1904.04153). NAACL, 2019.
+- Zamir, A. R., Sax, A., Shen, W., Guibas, L. J., Malik, J., & Savarese, S.  [Taskonomy: Disentangling Task Transfer Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf). CVPR, 2018.
 - Kim, J., Park, Y., Kim, G., & Hwang, S. J.  [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html). ICML, 2017.
 - Alonso, H. M., & Plank, B.  [When is multitask learning effective? Semantic sequence prediction under varying data conditions](http://arxiv.org/abs/1612.02251). EACL, 2017. 
 - Bingel, J., & Søgaard, A.  [Identifying beneficial task relations for multi-task learning in deep neural networks](http://arxiv.org/abs/1702.08303). EACL, 2017.
