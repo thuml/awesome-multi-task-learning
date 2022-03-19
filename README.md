@@ -7,7 +7,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 ## Table of Contents
 
 - [Survey](#survey)
-- [Benchmark](#benchmark)
+- [Benchmark & Dataset](#benchmark--dataset)
   - [Computer Vision](#computer-vision)
   - [NLP](#nlp)
   - [RL & Robotics](#rl--robotics)
@@ -46,7 +46,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 
 
-## Benchmark
+## Benchmark & Dataset
 
 ### Computer Vision
 
@@ -75,6 +75,10 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - MS COCO
   - Object detection, pose estimation, semantic segmentation.
   - Reference: [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060).
+- Omnidata [[URL](https://omnidata.vision/)]
+  - A pipeline to resample comprehensive 3D scans from the real-world into static multi-task vision datasets
+  - Eftekhar, A., Sax, A., Bachmann, R., Malik, J., & Zamir, A.  [Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans](http://arxiv.org/abs/2110.04994). ICCV, 2021. 
+
 
 
 ### NLP
