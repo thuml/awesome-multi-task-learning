@@ -6,6 +6,9 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 ## Table of Contents
 
+<details>
+  <summary>Awesome Multi-Task Learning</summary>
+
 - [Survey](#survey)
 - [Benchmark & Dataset](#benchmark--dataset)
   - [Computer Vision](#computer-vision)
@@ -31,7 +34,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - [Task Relationship Learning: Grouping, Hierarchy & Cascading](#task-relationship-learning-grouping-hierarchy--cascading)
 - [Theory](#theory)
 - [Misc](#misc)
-
+</details>
 
 
 ## Survey
