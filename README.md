@@ -2,7 +2,7 @@
 
 By [Jialong Wu](https://github.com/Manchery).
 
-I greatly appreciate those surveys below, which help me a lot. *Please let me know if you find any mistakes or omissions!*
+I greatly appreciate those surveys below, which helped me a lot. *Please let me know if you find any mistakes or omissions!*
 
 ## Table of Contents
 
@@ -112,7 +112,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 - **General**
   - ✨ [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
 - **Computer Vision**
-  - [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
+  - ✨ [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
   - ✨ [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
   - [astmt](https://github.com/facebookresearch/astmt): Attentive Single-tasking of Multiple Tasks
 - **NLP**
@@ -130,7 +130,7 @@ I greatly appreciate those surveys below, which help me a lot. *Please let me kn
 
 - Heuer, F., Mantowsky, S., Bukhari, S. S., & Schneider, G.  [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060). ICCV, 2021.
 - Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). Arxiv, 2021.
-- Liu, X., He, P., Chen, W., & Gao, J.  [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). ACL, 2019.
+- ✨ Liu, X., He, P., Chen, W., & Gao, J.  [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). ACL, 2019.
 - ✨ Kokkinos, I.  [UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](https://arxiv.org/abs/1609.02132). CVPR, 2017.
 - Teichmann, M., Weber, M., Zoellner, M., Cipolla, R., & Urtasun, R.  [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](http://arxiv.org/abs/1612.07695). Arxiv, 2016.
 - Caruana, R. [Multitask Learning](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf). 1997.
