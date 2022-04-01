@@ -2,7 +2,9 @@
 
 By [Jialong Wu](https://github.com/Manchery).
 
-I greatly appreciate those surveys below, which helped me a lot. *Please let me know if you find any mistakes or omissions!*
+A curated list of datasets, codebases and papers on Multi-Task Learning (MTL), from Machine Learning perspective. I greatly appreciate those surveys below, which helped me a lot. 
+
+Please let me know if you find any mistakes or omissions! Your contribution is welcome!
 
 ## Table of Contents
 
