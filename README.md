@@ -57,7 +57,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - MultiMNIST/MultiFashionMNIST
   - a multitask variant of the MNIST/FashionMNIST dataset
-  - **[ ! ]** *Toy datasets*
+  - ❗*Toy datasets*
   - Reference: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413), *etc*.
 - ✨ NYUv2 [[URL](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
   - 3 Tasks: Semantic Segmentation, Depth Estimation, Surface Normal Estimation
@@ -291,6 +291,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - Achille, A., Lam, M., Tewari, R., Ravichandran, A., Maji, S., Fowlkes, C., Soatto, S., & Perona, P.  [Task2Vec: Task Embedding for Meta-Learning](https://doi.org/10.1109/ICCV.2019.00653). ICCV, 2019.
 - Dwivedi, K., & Roig, G.  [Representation Similarity Analysis for Efficient Task Taxonomy & Transfer Learning](https://arxiv.org/abs/1904.11740). CVPR, 2019.
 - Guo, H., Pasunuru, R., & Bansal, M. [AutoSeM: Automatic Task Selection and Mixing in Multi-Task Learning](https://arxiv.org/abs/1904.04153). NAACL, 2019.
+- Sanh, V., Wolf, T., & Ruder, S.  [A Hierarchical Multi-task Approach for Learning Embeddings from Semantic Tasks](http://arxiv.org/abs/1811.06031). AAAI, 2019. 
 - ✨ Zamir, A. R., Sax, A., Shen, W., Guibas, L. J., Malik, J., & Savarese, S.  [Taskonomy: Disentangling Task Transfer Learning](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zamir_Taskonomy_Disentangling_Task_CVPR_2018_paper.pdf). CVPR, 2018.
 - Kim, J., Park, Y., Kim, G., & Hwang, S. J.  [SplitNet: Learning to Semantically Split Deep Networks for Parameter Reduction and Model Parallelization](http://proceedings.mlr.press/v70/kim17b.html). ICML, 2017.
 - Alonso, H. M., & Plank, B.  [When is multitask learning effective? Semantic sequence prediction under varying data conditions](http://arxiv.org/abs/1612.02251). EACL, 2017. 
