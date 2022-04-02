@@ -55,10 +55,10 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Computer Vision
 
-- MultiMNIST/MultiFashionMNIST
-  - a multitask variant of the MNIST/FashionMNIST dataset
-  - ❗*Toy datasets*
-  - Reference: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413), *etc*.
+- MultiMNIST / MultiFashionMNIST
+  - a multitask variant of the MNIST / FashionMNIST dataset
+  - ⚠️ *Toy datasets*
+  - See: [MGDA](http://arxiv.org/abs/1810.04650), [Pareto MTL](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf), [IT-MTL](https://arxiv.org/abs/2010.15413), *etc*.
 - ✨ NYUv2 [[URL](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)]
   - 3 Tasks: Semantic Segmentation, Depth Estimation, Surface Normal Estimation
   - Silberman, N., Hoiem, D., Kohli, P., & Fergus, R. (2012). [Indoor Segmentation and Support Inference from RGBD Images](https://cs.nyu.edu/~silberman/papers/indoor_seg_support.pdf). ECCV, 2012.
@@ -79,7 +79,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
   - Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., Madhavan, V., & Darrell, T.  [BDD100K: A Diverse Driving Dataset for Heterogeneous Multitask Learning](http://arxiv.org/abs/1805.04687). CVPR, 2020.
 - MS COCO
   - Object detection, pose estimation, semantic segmentation.
-  - Reference: [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060).
+  - See: [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060).
 - Omnidata [[URL](https://omnidata.vision/)]
   - A pipeline to resample comprehensive 3D scans from the real-world into static multi-task vision datasets
   - Eftekhar, A., Sax, A., Bachmann, R., Malik, J., & Zamir, A.  [Omnidata: A Scalable Pipeline for Making Multi-Task Mid-Level Vision Datasets from 3D Scans](http://arxiv.org/abs/2110.04994). ICCV, 2021. 
@@ -99,13 +99,13 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - QM9 [[URL](https://www.nature.com/articles/sdata201422)]
   - 11 properties of molecules; multi-task regression
-  - Reference: [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017).
+  - See: [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017).
 
 ### Recommendation
 
 - MovieLens [[URL](https://www.tensorflow.org/datasets/catalog/movielens)]
   - 2 Task: binary classiﬁcation (whether the user will watch) & regression (user’s rating)
-  - Reference: [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760)
+  - See: [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760)
 
 
 
