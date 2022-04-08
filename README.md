@@ -165,7 +165,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.  [Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](http://arxiv.org/abs/2007.12540). ECCV, 2020.
 - Pham, M. Q., Crego, J. M., Yvon, F., & Senellart, J.  [A Study of Residual Adapters for Multi-Domain Neural Machine Translation](https://www.aclweb.org/anthology/2020.wmt-1.72/). WMT, 2020.
-- Pfeiffer, J., Rücklé, A., Poth, C., Kamath, A., Vulić, I., Ruder, S., Cho, K., & Gurevych, I.  [AdapterHub: A Framework for Adapting Transformers](http://arxiv.org/abs/2007.07779). EMNLP 2020: Systems Demonstrations.
+- ✨ Pfeiffer, J., Rücklé, A., Poth, C., Kamath, A., Vulić, I., Ruder, S., Cho, K., & Gurevych, I.  [AdapterHub: A Framework for Adapting Transformers](http://arxiv.org/abs/2007.07779). EMNLP 2020: Systems Demonstrations.
 - Pfeiffer, J., Vulić, I., Gurevych, I., & Ruder, S.  [MAD-X: An Adapter-Based Framework for Multi-Task Cross-Lingual Transfer](https://doi.org/10.18653/v1/2020.emnlp-main.617). EMNLP, 2020.
 - Zhao, M., Lin, T., Mi, F., Jaggi, M., & Schütze, H.  [Masking as an Efficient Alternative to Finetuning for Pretrained Language Models](http://arxiv.org/abs/2004.12406). EMNLP, 2020.
 - Pfeiffer, J., Kamath, A., Rücklé, A., Cho, K., & Gurevych, I.  [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](http://arxiv.org/abs/2005.00247). EACL, 2021.
@@ -277,6 +277,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Distillation
 
+- Li, W.-H., Liu, X., & Bilen, H.  [Universal Representations: A Uniﬁed Look at Multiple Task and Domain Learning](https://arxiv.org/abs/2204.02744). Arxiv, 2022.
 - Ghiasi, G., Zoph, B., Cubuk, E. D., Le, Q. V., & Lin, T.-Y.  [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353). ICCV, 2021.
 - Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
 
