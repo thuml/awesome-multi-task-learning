@@ -316,6 +316,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Misc
 
+- ✨ Bachmann, R., Mizrahi, D., Atanov, A., & Zamir, A. [MultiMAE: Multi-modal Multi-task Masked Autoencoders](http://arxiv.org/abs/2204.01678). ArXiv, 2022.
 - Deng, W., Gould, S., & Zheng, L.  [What Does Rotation Prediction Tell Us about Classifier Accuracy under Varying Testing Environments?](http://arxiv.org/abs/2106.05961). ICML, 2021. 
 - Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
