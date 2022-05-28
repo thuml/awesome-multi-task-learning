@@ -180,6 +180,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modularity, MoE, Routing & NAS
 
+- Gesmundo, A., & Dean, J.  [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](http://arxiv.org/abs/2205.12755). ArXiv, 2022. 
 - Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [One Model, Multiple Tasks: Pathways for Natural Language Understanding](https://arxiv.org/abs/2203.03312). Arxiv, 2022.
 - Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). Arxiv, 2022.
 - Hazimeh, H., Zhao, Z., Chowdhery, A., Sathiamoorthy, M., Chen, Y., Mazumder, R., Hong, L., & Chi, E. H.  [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760). NeurIPS, 2021.
