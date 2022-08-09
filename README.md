@@ -33,6 +33,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
   - [Adversarial Training](#adversarial-training)
   - [Pareto](#pareto)
   - [Distillation](#distillation)
+  - [Consistency](#consistency)
 - [Task Relationship Learning: Grouping, Tree (Hierarchy) & Cascading](#task-relationship-learning-grouping-tree-hierarchy--cascading)
 - [Theory](#theory)
 - [Misc](#misc)
@@ -161,7 +162,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modulation & Adapters
 
-- ✨ He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ICLR, 2022 .
+- ✨ He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ICLR, 2022.
 - Zhang, L., Yang, Q., Liu, X., & Guan, H.  [Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://arxiv.org/abs/2107.11359). ICME, 2022.
 - Zhu, Y., Feng, J., Zhao, C., Wang, M., & Li, L.  [Counter-Interference Adapter for Multilingual Machine Translation](https://aclanthology.org/2021.findings-emnlp.240). Findings of EMNLP, 2021. 
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
@@ -213,7 +214,6 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Others
 
-- Zamir, A., Sax, A., Yeo, T., Kar, O., Cheerla, N., Suri, R., Cao, Z., Malik, J., & Guibas, L.  [Robust Learning Through Cross-Task Consistency](http://arxiv.org/abs/2006.04096). CVPR, 2020. 
 - Sun, T., Shao, Y., Li, X., Liu, P., Yan, H., Qiu, X., & Huang, X.  [Learning Sparse Sharing Architectures for Multiple Tasks](http://arxiv.org/abs/1911.05034). AAAI, 2020.
 - Lee, H. B., Yang, E., & Hwang, S. J.  [Deep Asymmetric Multi-task Feature Learning](http://proceedings.mlr.press/v80/lee18d/lee18d.pdf). ICML, 2018.
 - Zhang, Y., Wei, Y., & Yang, Q.  [Learning to Multitask](https://papers.nips.cc/paper/2018/file/aeefb050911334869a7a5d9e4d0e1689-Paper.pdf). NeurIPS, 2018.
@@ -284,6 +284,10 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - Li, W.-H., Liu, X., & Bilen, H.  [Universal Representations: A Uniﬁed Look at Multiple Task and Domain Learning](https://arxiv.org/abs/2204.02744). Arxiv, 2022.
 - Ghiasi, G., Zoph, B., Cubuk, E. D., Le, Q. V., & Lin, T.-Y.  [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353). ICCV, 2021.
 - Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
+
+### Consistency
+
+- ✨Zamir, A., Sax, A., Yeo, T., Kar, O., Cheerla, N., Suri, R., Cao, Z., Malik, J., & Guibas, L.  [Robust Learning Through Cross-Task Consistency](http://arxiv.org/abs/2006.04096). CVPR, 2020.
 
 
 
