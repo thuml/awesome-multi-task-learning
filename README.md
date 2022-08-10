@@ -114,6 +114,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - **General**
   - ✨ [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
+  - ✨ [auto-lambda](https://github.com/lorenmt/auto-lambda): The Implementation of "Auto-Lambda: Disentangling Dynamic Task Relationships" (multi-task optimisation methods)
   - [MALSAR](https://github.com/jiayuzhou/MALSAR): Multi-task learning via Structural Regularization (⚠️ Non-deep Learning)
 - **Computer Vision**
   - ✨ [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
