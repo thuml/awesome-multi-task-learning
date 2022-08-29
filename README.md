@@ -288,6 +288,9 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - Li, W.-H., Liu, X., & Bilen, H.  [Universal Representations: A Uniﬁed Look at Multiple Task and Domain Learning](https://arxiv.org/abs/2204.02744). ArXiv, 2022.
 - Ghiasi, G., Zoph, B., Cubuk, E. D., Le, Q. V., & Lin, T.-Y.  [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353). ICCV, 2021.
 - Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
+- ✨ Teh, Yee Whye, Victor Bapst, Wojciech Marian Czarnecki, John Quan, James Kirkpatrick, Raia Hadsell, Nicolas Heess, and Razvan Pascanu. [Distral: Robust Multitask Reinforcement Learning](https://arxiv.org/abs/1707.04175). NeurIPS, 2017.
+- ✨ Parisotto, Emilio, Jimmy Lei Ba, and Ruslan Salakhutdinov.  [Actor-Mimic: Deep Multitask and Transfer Reinforcement Learning](https://arxiv.org/abs/1511.06342). ICLR, 2016.
+- ✨ Rusu, Andrei A., Sergio Gomez Colmenarejo, Caglar Gulcehre, Guillaume Desjardins, James Kirkpatrick, Razvan Pascanu, Volodymyr Mnih, Koray Kavukcuoglu, and Raia Hadsell. [Policy Distillation](https://arxiv.org/abs/1511.06295). ICLR, 2016.
 
 ### Consistency
 
