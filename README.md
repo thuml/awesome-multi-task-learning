@@ -134,10 +134,10 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Hard Parameter Sharing
 
 - Heuer, F., Mantowsky, S., Bukhari, S. S., & Schneider, G.  [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060). ICCV, 2021.
-- Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). Arxiv, 2021.
+- Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). ArXiv, 2021.
 - ✨ Liu, X., He, P., Chen, W., & Gao, J.  [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). ACL, 2019.
 - ✨ Kokkinos, I.  [UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](https://arxiv.org/abs/1609.02132). CVPR, 2017.
-- Teichmann, M., Weber, M., Zoellner, M., Cipolla, R., & Urtasun, R.  [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](http://arxiv.org/abs/1612.07695). Arxiv, 2016.
+- Teichmann, M., Weber, M., Zoellner, M., Cipolla, R., & Urtasun, R.  [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](http://arxiv.org/abs/1612.07695). ArXiv, 2016.
 - Caruana, R. [Multitask Learning](https://link.springer.com/content/pdf/10.1023/A:1007379606734.pdf). 1997.
 
 <p align="center">
@@ -185,12 +185,13 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modularity, MoE, Routing & NAS
 
+- ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
 - Gesmundo, A., & Dean, J.  [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](http://arxiv.org/abs/2205.12755). ArXiv, 2022. 
-- Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [SkillNet-NLU: A Sparsely Activated Model for General-Purpose Natural Language Understanding](https://arxiv.org/abs/2203.03312). Arxiv, 2022.
-- Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). Arxiv, 2022.
+- Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [SkillNet-NLU: A Sparsely Activated Model for General-Purpose Natural Language Understanding](https://arxiv.org/abs/2203.03312). ArXiv, 2022.
+- Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). ArXiv, 2022.
 - Hazimeh, H., Zhao, Z., Chowdhery, A., Sathiamoorthy, M., Chen, Y., Mazumder, R., Hong, L., & Chi, E. H.  [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760). NeurIPS, 2021.
 - ✨ **[Pathways]** *Introducing Pathways: A next-generation AI architecture*. Oct 28, 2021. Retrieved March 9, 2022, from https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
-- ✨ Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). Arxiv, 2021.
+- ✨ Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). ArXiv, 2021.
 - ✨ Yang, R., Xu, H., Wu, Y., & Wang, X.  [Multi-Task Reinforcement Learning with Soft Modularization](http://arxiv.org/abs/2003.13661). NeurIPS, 2020. 
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
@@ -238,7 +239,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - **[RLW]** Lin, B., Ye, F., & Zhang, Y.  [A Closer Look at Loss Weighting in Multi-Task Learning](http://arxiv.org/abs/2111.10603). ArXiv, 2021.
 - ✨ **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
-- **[IT-MTL]** Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Measuring and Harnessing Transference in Multi-Task Learning](https://arxiv.org/abs/2010.15413). Arxiv, 2020.
+- **[IT-MTL]** Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Measuring and Harnessing Transference in Multi-Task Learning](https://arxiv.org/abs/2010.15413). ArXiv, 2020.
 - **[GradDrop]** Chen, Z., Ngiam, J., Huang, Y., Luong, T., Kretzschmar, H., Chai, Y., & Anguelov, D.  [Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout](https://proceedings.neurips.cc//paper/2020/file/16002f7a455a94aa4e91cc34ebdb9f2d-Paper.pdf). NeurIPS, 2020.
 - ✨ **[PCGrad]** Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C.  [Gradient Surgery for Multi-Task Learning](http://arxiv.org/abs/2001.06782). NeurIPS, 2020.
 - **[Dynamic Stop-and-Go (DSG)]** Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
@@ -247,17 +248,17 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
   - PopArt: [Learning values across many orders of magnitude](https://arxiv.org/abs/1602.07714). NeurIPS, 2016.
 - **[Dynamic Weight Average (DWA)]** Liu, S., Johns, E., & Davison, A. J.  [End-to-End Multi-Task Learning with Attention](http://arxiv.org/abs/1803.10704). CVPR, 2019. 
 - **[Geometric Loss Strategy (GLS)]** Chennupati, S., Sistu, G., Yogamani, S., & Rawashdeh, S. A.  [MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning](http://arxiv.org/abs/1904.08492). CVPR 2019 Workshop on Autonomous Driving (WAD).
-- **[Orthogonal]** Suteu, M., & Guo, Y.  [Regularizing Deep Multi-Task Networks using Orthogonal Gradients](http://arxiv.org/abs/1912.06844). Arxiv, 2019. 
+- **[Orthogonal]** Suteu, M., & Guo, Y.  [Regularizing Deep Multi-Task Networks using Orthogonal Gradients](http://arxiv.org/abs/1912.06844). ArXiv, 2019. 
   - Enforcing near orthogonal gradients
-- ✨ **[Gradient Cosine Similarity]** Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B.  [Adapting Auxiliary Losses Using Gradient Similarity](http://arxiv.org/abs/1812.02224). Arxiv, 2018.
+- ✨ **[Gradient Cosine Similarity]** Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B.  [Adapting Auxiliary Losses Using Gradient Similarity](http://arxiv.org/abs/1812.02224). ArXiv, 2018.
   - Uses a thresholded cosine similarity to determine whether to use each auxiliary task.
   - Extension: **OL-AUX**
-- **[Revised Uncertainty]** Liebel, L., & Körner, M.  [Auxiliary Tasks in Multi-task Learning](http://arxiv.org/abs/1805.06334). Arxiv, 2018.
+- **[Revised Uncertainty]** Liebel, L., & Körner, M.  [Auxiliary Tasks in Multi-task Learning](http://arxiv.org/abs/1805.06334). ArXiv, 2018.
 - ✨ **[GradNorm]** Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A.  [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://arxiv.org/abs/1711.02257). ICML, 2018.
 - **[Dynamic Task Prioritization]** Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
 - ✨ **[Uncertainty]** Kendall, A., Gal, Y., & Cipolla, R.  [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115). CVPR, 2018.
 - ✨ **[MGDA]** Sener, O., & Koltun, V.  [Multi-Task Learning as Multi-Objective Optimization](http://arxiv.org/abs/1810.04650). NeurIPS, 2018.
-- **[AdaLoss]** Hu, H., Dey, D., Hebert, M., & Bagnell, J. A.  [Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing](http://arxiv.org/abs/1708.06832). Arxiv, 2017.
+- **[AdaLoss]** Hu, H., Dey, D., Hebert, M., & Bagnell, J. A.  [Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing](http://arxiv.org/abs/1708.06832). ArXiv, 2017.
   - The weights are inversely proportional to average of each loss.
 - **[Task-wise Early Stopping]** Zhang, Z., Luo, P., Loy, C. C., & Tang, X. [Facial Landmark Detection by Deep Multi-task Learning](https://personal.ie.cuhk.edu.hk/~ccloy/files/eccv_2014_deepfacealign.pdf). ECCV, 2014.
 
@@ -273,7 +274,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Adversarial Training
 
 - ✨ Maninis, K.-K., Radosavovic, I., & Kokkinos, I.  [Attentive Single-Tasking of Multiple Tasks](http://arxiv.org/abs/1904.08918). CVPR, 2019.
-- Sinha, A., Chen, Z., Badrinarayanan, V., & Rabinovich, A.  [Gradient Adversarial Training of Neural Networks](http://arxiv.org/abs/1806.08028). Arxiv, 2018.
+- Sinha, A., Chen, Z., Badrinarayanan, V., & Rabinovich, A.  [Gradient Adversarial Training of Neural Networks](http://arxiv.org/abs/1806.08028). ArXiv, 2018.
 - Liu, P., Qiu, X., & Huang, X.  [Adversarial Multi-task Learning for Text Classification](http://arxiv.org/abs/1704.05742). ACL, 2017.
 
 ### Pareto
@@ -283,7 +284,8 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Distillation
 
-- Li, W.-H., Liu, X., & Bilen, H.  [Universal Representations: A Uniﬁed Look at Multiple Task and Domain Learning](https://arxiv.org/abs/2204.02744). Arxiv, 2022.
+- ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
+- Li, W.-H., Liu, X., & Bilen, H.  [Universal Representations: A Uniﬁed Look at Multiple Task and Domain Learning](https://arxiv.org/abs/2204.02744). ArXiv, 2022.
 - Ghiasi, G., Zoph, B., Cubuk, E. D., Le, Q. V., & Lin, T.-Y.  [Multi-Task Self-Training for Learning General Representations](http://arxiv.org/abs/2108.11353). ICCV, 2021.
 - Li, W. H., & Bilen, H. [Knowledge Distillation for Multi-task Learning](https://arxiv.org/pdf/2007.06889.pdf), ECCV-Workshop, 2020.
 
@@ -328,13 +330,13 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Misc
 
-- ✨ Bachmann, R., Mizrahi, D., Atanov, A., & Zamir, A. [MultiMAE: Multi-modal Multi-task Masked Autoencoders](http://arxiv.org/abs/2204.01678). ArXiv, 2022.
+- ✨ Bachmann, R., Mizrahi, D., Atanov, A., & Zamir, A. [MultiMAE: Multi-modal Multi-task Masked Autoencoders](http://arxiv.org/abs/2204.01678). ECCV, 2022.
 - Deng, W., Gould, S., & Zheng, L.  [What Does Rotation Prediction Tell Us about Classifier Accuracy under Varying Testing Environments?](http://arxiv.org/abs/2106.05961). ICML, 2021. 
 - Lu, J., Goswami, V., Rohrbach, M., Parikh, D., & Lee, S. [12-in-1: Multi-Task Vision and Language Representation Learning](https://openaccess.thecvf.com/content_CVPR_2020/papers/Lu_12-in-1_Multi-Task_Vision_and_Language_Representation_Learning_CVPR_2020_paper.pdf). CVPR, 2020.
 - Mao, C., Gupta, A., Nitin, V., Ray, B., Song, S., Yang, J., & Vondrick, C. [Multitask Learning Strengthens Adversarial Robustness](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470154.pdf). ECCV, 2020.
 - Guo, P., Xu, Y., Lin, B., & Zhang, Y.  [Multi-Task Adversarial Attack](http://arxiv.org/abs/2011.09824). ArXiv, 2020.
 - Clark, K., Luong, M.-T., Khandelwal, U., Manning, C. D., & Le, Q. V.  [BAM! Born-Again Multi-Task Networks for Natural Language Understanding](https://www.aclweb.org/anthology/P19-1595/). ACL, 2019.
-- Pramanik, S., Agrawal, P., & Hussain, A.  [OmniNet: A unified architecture for multi-modal multi-task learning](http://arxiv.org/abs/1907.07804). Arxiv, 2019.
+- Pramanik, S., Agrawal, P., & Hussain, A.  [OmniNet: A unified architecture for multi-modal multi-task learning](http://arxiv.org/abs/1907.07804). ArXiv, 2019.
 - Zimin, A., & Lampert, C. H. [Tasks Without Borders: A New Approach to Online Multi-Task Learning](https://openreview.net/pdf?id=HkllV5Bs24). AMTL Workshop at ICML 2019.
 - Meyerson, E., & Miikkulainen, R.  [Modular Universal Reparameterization: Deep Multi-task Learning Across Diverse Domains](http://arxiv.org/abs/1906.00097).  NeurIPS, 2019.
 - Meyerson, E., & Miikkulainen, R.  [Pseudo-task Augmentation: From Deep Multitask Learning to Intratask Sharing---and Back](http://arxiv.org/abs/1803.04062). ICML, 2018. 
