@@ -91,6 +91,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - ✨ GLUE \- General Language Understanding Evaluation [[URL](https://gluebenchmark.com/)]
 - ✨ decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP [[URL](https://github.com/salesforce/decaNLP)]
+- WMT Multilingual Machine Translation
 
 ### RL & Robotics
 
@@ -231,9 +232,10 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Loss & Gradient Strategy
 
-- **[Auto-λ]** Liu, S., James, S., Davison, A. J., & Johns, E.  [Auto-Lambda: Disentangling Dynamic Task Relationships](http://arxiv.org/abs/2202.03091). TMLR, 2022. 
-- **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). ArXiv, 2022. 
+- ✨ Xin, Derrick, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. **[Do Current Multi-Task Optimization Methods in Deep Learning Even Help?](https://openreview.net/forum?id=A2Ya5aLtyuG)** NeurIPS, 2022.
+- **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). NeurIPS, 2022. 
   - Minimize the multi-task training objective with a standard gradient-based algorithm.
+- **[Auto-λ]** Liu, S., James, S., Davison, A. J., & Johns, E.  [Auto-Lambda: Disentangling Dynamic Task Relationships](http://arxiv.org/abs/2202.03091). TMLR, 2022. 
 - **[Nash-MTL]** Navon, A., Shamsian, A., Achituve, I., Maron, H., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017). ICML, 2022. 
 - **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/abs/2110.14048). NeurIPS, 2021.
 - **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
@@ -301,6 +303,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Task Relationship Learning: Grouping, Tree (Hierarchy) & Cascading
 
+- Song, Xiaozhuang, Shun Zheng, Wei Cao, James Yu, and Jiang Bian. [Efficient and Effective Multi-Task Grouping via Meta Learning on Task Combinations](https://openreview.net/forum?id=Rqe-fJQtExY). NeurIPS, 2022.
 - Zhang, L., Liu, X., & Guan, H.  [A Tree-Structured Multi-Task Model Recommender](http://arxiv.org/abs/2203.05092). AutoML-Conf, 2022.
 - ✨ Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Efficiently Identifying Task Groupings for Multi-Task Learning](http://arxiv.org/abs/2109.04617). NeurIPS, 2021.
 - ✨ Vandenhende, S., Georgoulis, S., De Brabandere, B., & Van Gool, L.  [Branched Multi-Task Networks: Deciding What Layers To Share](http://arxiv.org/abs/1904.02920). BMVC, 2020.
