@@ -106,8 +106,12 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Recommendation
 
+- AliExpress [[URL](https://tianchi.aliyun.com/dataset/74690)]
+  - 2 Tasks: CTR and CTCVR from 5 countries
+  - Li, P., Li, R., Da, Q., Zeng, A. X., & Zhang, L. [Improving Multi-Scenario Learning to Rank in E-commerce by Exploiting Task Relationships in the Label Space](https://cs.nju.edu.cn/_upload/tpl/01/0c/268/template268/pdf/CIKM-2020-Li.pdf). CIKM, 2020.
+  - See: [MTReclib](https://github.com/easezyc/Multitask-Recommendation-Library#datasets)
 - MovieLens [[URL](https://www.tensorflow.org/datasets/catalog/movielens)]
-  - 2 Task: binary classiﬁcation (whether the user will watch) & regression (user’s rating)
+  - 2 Tasks: binary classification (whether the user will watch) & regression (user’s rating)
   - See: [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760)
 
 
@@ -232,14 +236,15 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Loss & Gradient Strategy
 
+- ✨ Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023. 
 - ✨ Xin, Derrick, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. **[Do Current Multi-Task Optimization Methods in Deep Learning Even Help?](https://openreview.net/forum?id=A2Ya5aLtyuG)** NeurIPS, 2022.
 - **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). NeurIPS, 2022. 
   - Minimize the multi-task training objective with a standard gradient-based algorithm.
 - **[Auto-λ]** Liu, S., James, S., Davison, A. J., & Johns, E.  [Auto-Lambda: Disentangling Dynamic Task Relationships](http://arxiv.org/abs/2202.03091). TMLR, 2022. 
 - **[Nash-MTL]** Navon, A., Shamsian, A., Achituve, I., Maron, H., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017). ICML, 2022. 
+- **[Rotograd]** Javaloy, A., & Valera, I.  [RotoGrad: Gradient Homogenization in Multitask Learning](http://arxiv.org/abs/2103.02631). ICLR, 2022. 
+- **[RLW]** Lin, B., Ye, F., & Zhang, Y.  [Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning](http://arxiv.org/abs/2111.10603). TMLR, 2022.
 - **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/abs/2110.14048). NeurIPS, 2021.
-- **[Rotograd]** Javaloy, A., & Valera, I.  [Rotograd: Dynamic Gradient Homogenization for Multi-Task Learning](http://arxiv.org/abs/2103.02631). ArXiv, 2021. 
-- **[RLW]** Lin, B., Ye, F., & Zhang, Y.  [Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning](http://arxiv.org/abs/2111.10603). ArXiv, 2021.
 - ✨ **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
 - **[IT-MTL]** Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Measuring and Harnessing Transference in Multi-Task Learning](https://arxiv.org/abs/2010.15413). ArXiv, 2020.
@@ -253,6 +258,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - **[Geometric Loss Strategy (GLS)]** Chennupati, S., Sistu, G., Yogamani, S., & Rawashdeh, S. A.  [MultiNet++: Multi-Stream Feature Aggregation and Geometric Loss Strategy for Multi-Task Learning](http://arxiv.org/abs/1904.08492). CVPR 2019 Workshop on Autonomous Driving (WAD).
 - **[Orthogonal]** Suteu, M., & Guo, Y.  [Regularizing Deep Multi-Task Networks using Orthogonal Gradients](http://arxiv.org/abs/1912.06844). ArXiv, 2019. 
   - Enforcing near orthogonal gradients
+- **[LBTW]** Liu, S., Liang, Y., & Gitter, A. [Loss-Balanced Task Weighting to Reduce Negative Transfer in Multi-Task Learning](https://ojs.aaai.org/index.php/AAAI/article/view/5125). AAAI, 2019. 
 - ✨ **[Gradient Cosine Similarity]** Du, Y., Czarnecki, W. M., Jayakumar, S. M., Farajtabar, M., Pascanu, R., & Lakshminarayanan, B.  [Adapting Auxiliary Losses Using Gradient Similarity](http://arxiv.org/abs/1812.02224). ArXiv, 2018.
   - Uses a thresholded cosine similarity to determine whether to use each auxiliary task.
   - Extension: **OL-AUX**
