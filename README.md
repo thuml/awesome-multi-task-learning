@@ -236,14 +236,14 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Loss & Gradient Strategy
 
-- ✨ Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023. 
+- ✨ **[ForkMerge]** Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023. 
 - ✨ Xin, Derrick, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. **[Do Current Multi-Task Optimization Methods in Deep Learning Even Help?](https://openreview.net/forum?id=A2Ya5aLtyuG)** NeurIPS, 2022.
 - **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). NeurIPS, 2022. 
   - Minimize the multi-task training objective with a standard gradient-based algorithm.
 - **[Auto-λ]** Liu, S., James, S., Davison, A. J., & Johns, E.  [Auto-Lambda: Disentangling Dynamic Task Relationships](http://arxiv.org/abs/2202.03091). TMLR, 2022. 
 - **[Nash-MTL]** Navon, A., Shamsian, A., Achituve, I., Maron, H., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Multi-Task Learning as a Bargaining Game](http://arxiv.org/abs/2202.01017). ICML, 2022. 
 - **[Rotograd]** Javaloy, A., & Valera, I.  [RotoGrad: Gradient Homogenization in Multitask Learning](http://arxiv.org/abs/2103.02631). ICLR, 2022. 
-- **[RLW]** Lin, B., Ye, F., & Zhang, Y.  [Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning](http://arxiv.org/abs/2111.10603). TMLR, 2022.
+- **[RLW / RGW]** Lin, B., Ye, F., & Zhang, Y.  [Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning](http://arxiv.org/abs/2111.10603). TMLR, 2022.
 - **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/abs/2110.14048). NeurIPS, 2021.
 - ✨ **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
