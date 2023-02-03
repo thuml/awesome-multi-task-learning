@@ -92,7 +92,9 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - ✨ GLUE \- General Language Understanding Evaluation [[URL](https://gluebenchmark.com/)]
 - ✨ decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP [[URL](https://github.com/salesforce/decaNLP)]
 - WMT Multilingual Machine Translation
-- tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation [[URL](https://github.com/sileod/tasksource)]
+- `tasksource` - 500+ MultipleChoice/Classification/TokenClassification tasks from HuggingFace Datasets Hub [[URL](https://github.com/sileod/tasksource)]
+  - Sileo, D.  [tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation](https://arxiv.org/abs/2301.05948). Arxiv, 2023.
+
 
 ### RL & Robotics
 
