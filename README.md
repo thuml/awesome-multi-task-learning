@@ -240,6 +240,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Loss & Gradient Strategy
 
 - ✨ **[ForkMerge]** Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023. 
+- **[AuxiNash]** Shamsian, A., Navon, A., Glazer, N., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Auxiliary Learning as an Asymmetric Bargaining Game](https://arxiv.org/abs/2301.13501). Arxiv, 2023.
 - ✨ Xin, Derrick, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. **[Do Current Multi-Task Optimization Methods in Deep Learning Even Help?](https://openreview.net/forum?id=A2Ya5aLtyuG)** NeurIPS, 2022.
 - **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). NeurIPS, 2022. 
   - Minimize the multi-task training objective with a standard gradient-based algorithm.
