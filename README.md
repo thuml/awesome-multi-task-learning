@@ -93,7 +93,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - ✨ decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP [[URL](https://github.com/salesforce/decaNLP)]
 - WMT Multilingual Machine Translation
 - `tasksource` - 500+ MultipleChoice/Classification/TokenClassification tasks from HuggingFace Datasets Hub [[URL](https://github.com/sileod/tasksource)]
-  - Sileo, D.  [tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation](https://arxiv.org/abs/2301.05948). Arxiv, 2023.
+  - Sileo, D.  [tasksource: Structured Dataset Preprocessing Annotations for Frictionless Extreme Multi-Task Learning and Evaluation](https://arxiv.org/abs/2301.05948). ArXiv, 2023.
 
 
 ### RL & Robotics
@@ -143,7 +143,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Hard Parameter Sharing
 
 - Heuer, F., Mantowsky, S., Bukhari, S. S., & Schneider, G.  [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060). ICCV, 2021.
-- Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). ArXiv, 2021.
+- Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). ICCV, 2021.
 - ✨ Liu, X., He, P., Chen, W., & Gao, J.  [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). ACL, 2019.
 - ✨ Kokkinos, I.  [UberNet: Training a Universal Convolutional Neural Network for Low-, Mid-, and High-Level Vision Using Diverse Datasets and Limited Memory](https://arxiv.org/abs/1609.02132). CVPR, 2017.
 - Teichmann, M., Weber, M., Zoellner, M., Cipolla, R., & Urtasun, R.  [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](http://arxiv.org/abs/1612.07695). ArXiv, 2016.
@@ -195,12 +195,12 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Modularity, MoE, Routing & NAS
 
 - ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
+- Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). NeurIPS, 2022.
 - Gesmundo, A., & Dean, J.  [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](http://arxiv.org/abs/2205.12755). ArXiv, 2022. 
 - Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [SkillNet-NLU: A Sparsely Activated Model for General-Purpose Natural Language Understanding](https://arxiv.org/abs/2203.03312). ArXiv, 2022.
 - Ponti, E. M., Sordoni, A., Bengio, Y., & Reddy, S.  [Combining Modular Skills in Multitask Learning](https://arxiv.org/abs/2202.13914). ArXiv, 2022.
 - Hazimeh, H., Zhao, Z., Chowdhery, A., Sathiamoorthy, M., Chen, Y., Mazumder, R., Hong, L., & Chi, E. H.  [DSelect-k: Differentiable Selection in the Mixture of Experts with Applications to Multi-Task Learning](http://arxiv.org/abs/2106.03760). NeurIPS, 2021.
 - ✨ **[Pathways]** *Introducing Pathways: A next-generation AI architecture*. Oct 28, 2021. Retrieved March 9, 2022, from https://blog.google/technology/ai/introducing-pathways-next-generation-ai-architecture/
-- ✨ Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). ArXiv, 2021.
 - ✨ Yang, R., Xu, H., Wu, Y., & Wang, X.  [Multi-Task Reinforcement Learning with Soft Modularization](http://arxiv.org/abs/2003.13661). NeurIPS, 2020. 
 - Sun, X., Panda, R., & Feris, R.  [AdaShare: Learning What To Share For Efficient Deep Multi-Task Learning](http://arxiv.org/abs/1911.12423). NeurIPS, 2020. 
 - Bruggemann, D., Kanakis, M., Georgoulis, S., & Van Gool, L.  [Automated Search for Resource-Efficient Branched Multi-Task Networks](http://arxiv.org/abs/2008.10292). BMVC, 2020. 
@@ -240,7 +240,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 ### Loss & Gradient Strategy
 
 - ✨ **[ForkMerge]** Jiang, J., Chen, B., Pan, J., Wang, X., Dapeng, L., Jiang, J., & Long, M.  [ForkMerge: Overcoming Negative Transfer in Multi-Task Learning](http://arxiv.org/abs/2301.12618). ArXiv, 2023. 
-- **[AuxiNash]** Shamsian, A., Navon, A., Glazer, N., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Auxiliary Learning as an Asymmetric Bargaining Game](https://arxiv.org/abs/2301.13501). Arxiv, 2023.
+- **[AuxiNash]** Shamsian, A., Navon, A., Glazer, N., Kawaguchi, K., Chechik, G., & Fetaya, E.  [Auxiliary Learning as an Asymmetric Bargaining Game](https://arxiv.org/abs/2301.13501). ArXiv, 2023.
 - ✨ Xin, Derrick, Behrooz Ghorbani, Justin Gilmer, Ankush Garg, and Orhan Firat. **[Do Current Multi-Task Optimization Methods in Deep Learning Even Help?](https://openreview.net/forum?id=A2Ya5aLtyuG)** NeurIPS, 2022.
 - **[Unitary Scalarization]** Kurin, V., De Palma, A., Kostrikov, I., Whiteson, S., & Kumar, M. P.  [In Defense of the Unitary Scalarization for Deep Multi-Task Learning](http://arxiv.org/abs/2201.04122). NeurIPS, 2022. 
   - Minimize the multi-task training objective with a standard gradient-based algorithm.
@@ -313,7 +313,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Task Relationship Learning: Grouping, Tree (Hierarchy) & Cascading
 
-- ✨ Ilharco, Gabriel, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi. [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089). Arxiv, 2022. 
+- ✨ Ilharco, Gabriel, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi. [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089). ICLR, 2023. 
 - Song, Xiaozhuang, Shun Zheng, Wei Cao, James Yu, and Jiang Bian. [Efficient and Effective Multi-Task Grouping via Meta Learning on Task Combinations](https://openreview.net/forum?id=Rqe-fJQtExY). NeurIPS, 2022.
 - Zhang, L., Liu, X., & Guan, H.  [A Tree-Structured Multi-Task Model Recommender](http://arxiv.org/abs/2203.05092). AutoML-Conf, 2022.
 - ✨ Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Efficiently Identifying Task Groupings for Multi-Task Learning](http://arxiv.org/abs/2109.04617). NeurIPS, 2021.
