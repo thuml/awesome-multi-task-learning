@@ -294,6 +294,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - Ma, P., Du, T., & Matusik, W. [Effcient Continuous Pareto Exploration in Multi-Task Learning](https://arxiv.org/abs/2006.16434). ICML, 2020.
 - Lin, X., Zhen, H.-L., Li, Z., Zhang, Q.-F., & Kwong, S.  [Pareto Multi-Task Learning](http://papers.nips.cc/paper/9374-pareto-multi-task-learning.pdf). NeurIPS, 2019.
+- Phan, H., Tran, N., Le, T., Tran, T., Ho, N., & Phung, D.  [Stochastic Multiple Target Sampling Gradient Descent](https://arxiv.org/abs/2206.01934). NeurIPS, 2022.
 
 ### Distillation
 
