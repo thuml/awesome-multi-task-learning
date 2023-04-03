@@ -194,6 +194,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modularity, MoE, Routing & NAS
 
+- Chen, Z., Shen, Y., Ding, M., Chen, Z., Zhao, H., Learned-Miller, E., & Gan, C.  [Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners](https://arxiv.org/abs/2212.08066). CVPR, 2023.
 - ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
 - Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). NeurIPS, 2022.
 - Gesmundo, A., & Dean, J.  [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](http://arxiv.org/abs/2205.12755). ArXiv, 2022. 
