@@ -196,6 +196,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 - Chen, Z., Shen, Y., Ding, M., Chen, Z., Zhao, H., Learned-Miller, E., & Gan, C.  [Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners](https://arxiv.org/abs/2212.08066). CVPR, 2023.
 - ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
+- ✨ Liang, H., Fan, Z., Sarkar, R., Jiang, Z., Chen, T., Zou, K., ... & Wang, Z.  [M$^ 3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design](https://arxiv.org/abs/2210.14793). NeurIPS, 2022.
 - Zhang, L., Liu, X., & Guan, H.  [AutoMTL: A Programming Framework for Automated Multi-Task Learning](http://arxiv.org/abs/2110.13076). NeurIPS, 2022.
 - Gesmundo, A., & Dean, J.  [An Evolutionary Approach to Dynamic Introduction of Tasks in Large-scale Multitask Learning Systems](http://arxiv.org/abs/2205.12755). ArXiv, 2022. 
 - Tang, D., Zhang, F., Dai, Y., Zhou, C., Wu, S., & Shi, S.  [SkillNet-NLU: A Sparsely Activated Model for General-Purpose Natural Language Understanding](https://arxiv.org/abs/2203.03312). ArXiv, 2022.
