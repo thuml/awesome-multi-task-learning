@@ -165,7 +165,8 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Decoder-focused Model
 
-- ✨ Ye, H., & Xu, D.  [Inverted Pyramid Multi-task Transformer for Dense Scene Understanding](https://arxiv.org/abs/2203.07997). ECCV, 2022.
+- Ye, H., & Xu, D.  [TaskPrompter: Spatial-Channel Multi-Task Prompting for Dense Scene Understanding](https://openreview.net/forum?id=-CwPopPJda). ICLR, 2023.
+- Ye, H., & Xu, D.  [Inverted Pyramid Multi-task Transformer for Dense Scene Understanding](https://arxiv.org/abs/2203.07997). ECCV, 2022.
 - Bruggemann, D., Kanakis, M., Obukhov, A., Georgoulis, S., & Van Gool, L.  [Exploring Relational Context for Multi-Task Dense Prediction](http://arxiv.org/abs/2104.13874). ICCV, 2021. 
 - Vandenhende, S., Georgoulis, S., & Van Gool, L.  [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](http://arxiv.org/abs/2001.06902). ECCV, 2020.
 - Zhang, Z., Cui, Z., Xu, C., Yan, Y., Sebe, N., & Yang, J.  [Pattern-Affinitive Propagation Across Depth, Surface Normal and Semantic Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Pattern-Affinitive_Propagation_Across_Depth_Surface_Normal_and_Semantic_Segmentation_CVPR_2019_paper.pdf). CVPR, 2019. 
