@@ -177,6 +177,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - ✨ He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ICLR, 2022.
 - Zhang, L., Yang, Q., Liu, X., & Guan, H.  [Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://arxiv.org/abs/2107.11359). ICME, 2022.
 - Zhu, Y., Feng, J., Zhao, C., Wang, M., & Li, L.  [Counter-Interference Adapter for Multilingual Machine Translation](https://aclanthology.org/2021.findings-emnlp.240). Findings of EMNLP, 2021. 
+- ✨ Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W.  [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). Arxiv, 2021.
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - Pfeiffer, J., Kamath, A., Rücklé, A., Cho, K., & Gurevych, I.  [AdapterFusion: Non-Destructive Task Composition for Transfer Learning](http://arxiv.org/abs/2005.00247). EACL, 2021.
 - Kanakis, M., Bruggemann, D., Saha, S., Georgoulis, S., Obukhov, A., & Van Gool, L.  [Reparameterizing Convolutions for Incremental Multi-Task Learning without Task Interference](http://arxiv.org/abs/2007.12540). ECCV, 2020.
