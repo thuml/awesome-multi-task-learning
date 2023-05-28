@@ -336,9 +336,11 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 - ✨ Bingel, J., & Søgaard, A.  [Identifying beneficial task relations for multi-task learning in deep neural networks](http://arxiv.org/abs/1702.08303). EACL, 2017.
 - Hand, E. M., & Chellappa, R.  [Attributes for Improved Attributes: A Multi-Task Network Utilizing Implicit and Explicit Relationships for Facial Attribute Classiﬁcation](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/viewFile/14749/14282). AAAI, 2017.
 - ✨ Lu, Y., Kumar, A., Zhai, S., Cheng, Y., Javidi, T., & Feris, R.  [Fully-adaptive Feature Sharing in Multi-Task Networks with Applications in Person Attribute Classification](http://arxiv.org/abs/1611.05377). CVPR, 2017.
+- Hashimoto, K., xiong,  caiming, Tsuruoka, Y., & Socher, R.  [A Joint Many-Task Model: Growing a Neural Network for Multiple NLP Tasks](https://arxiv.org/abs/1611.01587). EMNLP, 2017.
 - Søgaard, A., & Goldberg, Y.  [Deep multi-task learning with low level tasks supervised at lower layers](https://www.aclweb.org/anthology/P16-2038.pdf). ACL, 2016.
-- Kang, Z., Grauman, K., & Sha, F.  [Learning with Whom to Share in Multi-task Feature Learning](http://www.cs.utexas.edu/~grauman/papers/icml2011.pdf). ICML, 2011.
 - Kumar, A., & Daume III, H. [Learning Task Grouping and Overlap in Multi-task Learning](http://arxiv.org/abs/1206.6417). ICML, 2012.
+- Kang, Z., Grauman, K., & Sha, F.  [Learning with Whom to Share in Multi-task Feature Learning](http://www.cs.utexas.edu/~grauman/papers/icml2011.pdf). ICML, 2011.
+- Zhang, Y., & Yeung, D.-Y.  [A Convex Formulation for Learning Task Relationships in Multi-Task Learning](http://arxiv.org/abs/1203.3536). UAI, 2010.
 
 
 
