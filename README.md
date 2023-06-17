@@ -1,8 +1,8 @@
 # Awesome Multi-Task Learning
 
-By [Jialong Wu](https://github.com/Manchery).
+By [Jialong Wu](https://manchery.github.io/).
 
-A curated list of datasets, codebases and papers on Multi-Task Learning (MTL), from Machine Learning perspective. I greatly appreciate those surveys below, which helped me a lot. 
+A curated list of datasets, codebases, and papers on Multi-Task Learning (MTL), from a Machine Learning perspective. I greatly appreciate the surveys below, which helped me a lot. 
 
 Please let me know if you find any mistakes or omissions! Your contribution is welcome!
 
