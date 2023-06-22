@@ -330,6 +330,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Task Relationship Learning: Grouping, Tree (Hierarchy) & Cascading
 
+- ✨ Hu, Y., Yang, J., Chen, L., Li, K., Sima, C., Zhu, X., ... & Li, H.  [Planning-oriented autonomous driving](https://arxiv.org/abs/2212.10156). CVPR, 2023 (Best Paper).
 - ✨ Ilharco, Gabriel, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi. [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089). ICLR, 2023. 
 - Song, Xiaozhuang, Shun Zheng, Wei Cao, James Yu, and Jiang Bian. [Efficient and Effective Multi-Task Grouping via Meta Learning on Task Combinations](https://openreview.net/forum?id=Rqe-fJQtExY). NeurIPS, 2022.
 - Zhang, L., Liu, X., & Guan, H.  [A Tree-Structured Multi-Task Model Recommender](http://arxiv.org/abs/2203.05092). AutoML-Conf, 2022.
