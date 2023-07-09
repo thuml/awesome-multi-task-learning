@@ -175,8 +175,13 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modulation & Adapters
 
+- Schmied, T., Hofmarcher, M., Paischer, F., Pascanu, R., & Hochreiter, S.  [Learning to Modulate pre-trained Models in RL](https://doi.org/10.48550/arXiv.2306.14884). ArXiv, 2023. 
 - ✨ He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ICLR, 2022.
+- Liu, H., Tam, D., Muqeeth, M., Mohta, J., Huang, T., Bansal, M., & Raffel, C.  [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://openreview.net/forum?id=rBCvMG-JsPd). NeurIPS, 2022.
 - Zhang, L., Yang, Q., Liu, X., & Guan, H.  [Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://arxiv.org/abs/2107.11359). ICME, 2022.
+- Wang, Z., Zhang, Z., Lee, C.-Y., Zhang, H., Sun, R., Ren, X., Su, G., Perot, V., Dy, J., & Pfister, T.  [Learning to Prompt for Continual Learning](http://arxiv.org/abs/2112.08654). CVPR, 2022. 
+- ✨ Lester, B., Al-Rfou, R., & Constant, N.  [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691). EMNLP, 2021.
+- ✨ Li, X. L., & Liang, P.  [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190).  ACL, 2021.
 - Zhu, Y., Feng, J., Zhao, C., Wang, M., & Li, L.  [Counter-Interference Adapter for Multilingual Machine Translation](https://aclanthology.org/2021.findings-emnlp.240). Findings of EMNLP, 2021. 
 - ✨ Hu, E. J., Shen, Y., Wallis, P., Allen-Zhu, Z., Li, Y., Wang, S., Wang, L., & Chen, W.  [LoRA: Low-Rank Adaptation of Large Language Models](https://arxiv.org/abs/2106.09685). Arxiv, 2021.
 - Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
@@ -256,9 +261,12 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
   - Also resurrects important **Scale-invariant (SI)** baseline which minimizes $\sum_k \log \ell_k$.
 - **[Rotograd]** Javaloy, A., & Valera, I.  [RotoGrad: Gradient Homogenization in Multitask Learning](http://arxiv.org/abs/2103.02631). ICLR, 2022. 
 - **[RLW / RGW]** Lin, B., Ye, F., & Zhang, Y.  [Reasonable Effectiveness of Random Weighting: A Litmus Test for Multi-Task Learning](http://arxiv.org/abs/2111.10603). TMLR, 2022.
+- [PINNsNTK] Wang, S., Yu, X., & Perdikaris, P.  [When and why PINNs fail to train: A neural tangent kernel perspective](https://arxiv.org/abs/2007.14527). *Journal of Computational Physics*, 2022.
+- [Inverse-Dirichlet PINNs] Maddu, S., Sturm, D., Müller, C. L., & Sbalzarini, I. F.  [Inverse Dirichlet weighting enables reliable training of physics informed neural networks](https://arxiv.org/abs/2107.00940). *Machine Learning: Science and Technology*, 2022.
 - **[CAGrad]** Liu, B., Liu, X., Jin, X., Stone, P., & Liu, Q.  [Conflict-Averse Gradient Descent for Multi-task Learning](https://arxiv.org/abs/2110.14048). NeurIPS, 2021.
 - ✨ **[Gradient Vaccine]** Wang, Z., Tsvetkov, Y., Firat, O., & Cao, Y.  [Gradient Vaccine: Investigating and Improving Multi-task Optimization in Massively Multilingual Models](https://openreview.net/forum?id=F1vEjWK-lH_). ICLR, 2021.
 - **[IMTL]** Liu, L., Li, Y., Kuang, Z., Xue, J.-H., Chen, Y., Yang, W., Liao, Q., & Zhang, W.  [Towards Impartial Multi-task Learning](https://openreview.net/forum?id=IMPnRXEWpvr). ICLR, 2021.
+- [GradientPathologiesPINNs] Wang, S., Teng, Y., & Perdikaris, P.  [Understanding and mitigating gradient flow pathologies in physics-informed neural networks](https://arxiv.org/abs/2001.04536). *SIAM Journal on Scientific Computing*, 2021.
 - **[IT-MTL]** Fifty, C., Amid, E., Zhao, Z., Yu, T., Anil, R., & Finn, C.  [Measuring and Harnessing Transference in Multi-Task Learning](https://arxiv.org/abs/2010.15413). ArXiv, 2020.
 - **[GradDrop]** Chen, Z., Ngiam, J., Huang, Y., Luong, T., Kretzschmar, H., Chai, Y., & Anguelov, D.  [Just Pick a Sign: Optimizing Deep Multitask Models with Gradient Sign Dropout](https://proceedings.neurips.cc//paper/2020/file/16002f7a455a94aa4e91cc34ebdb9f2d-Paper.pdf). NeurIPS, 2020.
 - ✨ **[PCGrad]** Yu, T., Kumar, S., Gupta, A., Levine, S., Hausman, K., & Finn, C.  [Gradient Surgery for Multi-Task Learning](http://arxiv.org/abs/2001.06782). NeurIPS, 2020.
