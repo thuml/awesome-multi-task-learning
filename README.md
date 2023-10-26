@@ -175,7 +175,8 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Modulation & Adapters
 
-- Schmied, T., Hofmarcher, M., Paischer, F., Pascanu, R., & Hochreiter, S.  [Learning to Modulate pre-trained Models in RL](https://doi.org/10.48550/arXiv.2306.14884). ArXiv, 2023. 
+- Schmied, T., Hofmarcher, M., Paischer, F., Pascanu, R., & Hochreiter, S.  [Learning to Modulate pre-trained Models in RL](https://doi.org/10.48550/arXiv.2306.14884). NeurIPS, 2023.
+- Sharma, M., Fantacci, C., Zhou, Y., Koppula, S., Heess, N., Scholz, J., & Aytar, Y.  [Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation](https://doi.org/10.48550/arXiv.2304.06600). ICLR, 2023. 
 - ✨ He, J., Zhou, C., Ma, X., Berg-Kirkpatrick, T., & Neubig, G. [Towards a Unified View of Parameter-Efficient Transfer Learning](http://arxiv.org/abs/2110.04366). ICLR, 2022.
 - Liu, H., Tam, D., Muqeeth, M., Mohta, J., Huang, T., Bansal, M., & Raffel, C.  [Few-Shot Parameter-Efficient Fine-Tuning is Better and Cheaper than In-Context Learning](https://openreview.net/forum?id=rBCvMG-JsPd). NeurIPS, 2022.
 - Zhang, L., Yang, Q., Liu, X., & Guan, H.  [Rethinking Hard-Parameter Sharing in Multi-Domain Learning](http://arxiv.org/abs/2107.11359). ICME, 2022.
@@ -285,7 +286,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
   - Extension: **OL-AUX**
 - **[Revised Uncertainty]** Liebel, L., & Körner, M.  [Auxiliary Tasks in Multi-task Learning](http://arxiv.org/abs/1805.06334). ArXiv, 2018.
 - ✨ **[GradNorm]** Chen, Z., Badrinarayanan, V., Lee, C.-Y., & Rabinovich, A.  [GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks](http://arxiv.org/abs/1711.02257). ICML, 2018.
-- **[Dynamic Task Prioritization]** Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
+- ✨ **[Dynamic Task Prioritization]** Guo, M., Haque, A., Huang, D.-A., Yeung, S., & Fei-Fei, L.  [Dynamic Task Prioritization for Multitask Learning](https://openaccess.thecvf.com/content_ECCV_2018/papers/Michelle_Guo_Focus_on_the_ECCV_2018_paper.pdf). ECCV, 2018.
 - ✨ **[Uncertainty]** Kendall, A., Gal, Y., & Cipolla, R.  [Multi-task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics](https://arxiv.org/abs/1705.07115). CVPR, 2018.
 - ✨ **[MGDA]** Sener, O., & Koltun, V.  [Multi-Task Learning as Multi-Objective Optimization](http://arxiv.org/abs/1810.04650). NeurIPS, 2018.
 - **[AdaLoss]** Hu, H., Dey, D., Hebert, M., & Bagnell, J. A.  [Learning Anytime Predictions in Neural Networks via Adaptive Loss Balancing](http://arxiv.org/abs/1708.06832). ArXiv, 2017.
