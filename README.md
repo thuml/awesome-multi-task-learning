@@ -250,6 +250,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ### Loss & Gradient Strategy
 
+- **[Population-Based Training]** Royer, A., Blankevoort, T., & Bejnordi, B. E.  [Scalarization for Multi-Task and Multi-Domain Learning at Scale](https://arxiv.org/abs/2310.08910). NeurIPS, 2023.
 - **[Aligned-MTL]** Senushkin, D., Patakin, N., Kuznetsov, A., & Konushin, A.  [Independent Component Alignment for Multi-Task Learning](https://openaccess.thecvf.com/content/CVPR2023/papers/Senushkin_Independent_Component_Alignment_for_Multi-Task_Learning_CVPR_2023_paper.pdf). CVPR, 2023.
 - **[MoCo]** Fernando, H. D., Shen, H., Liu, M., Chaudhury, S., Murugesan, K., & Chen, T.  [Mitigating Gradient Bias in Multi-objective Learning: A Provably Convergent Approach](https://openreview.net/forum?id=dLAYGdKTi2). ICLR, 2023.
 - **[FAMO]** Liu, B., Feng, Y., Stone, P., & Liu, Q.  [FAMO: Fast Adaptive Multitask Optimization](http://arxiv.org/abs/2306.03792). ArXiv, 2023. 
