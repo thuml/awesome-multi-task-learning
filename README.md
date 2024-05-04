@@ -43,6 +43,7 @@ Please let me know if you find any mistakes or omissions! Your contribution is w
 
 ## Survey
 
+- ✨ Yu, J., Dai, Y., Liu, X., Huang, J., Shen, Y., Zhang, K., ... & Chen, Y. [Unleashing the Power of Multi-Task Learning: A Comprehensive Survey Spanning Traditional, Deep, and Pretrained Foundation Model Eras](https://arxiv.org/abs/2404.18961). ArXiv, 2024.
 - ✨ Vandenhende, S., Georgoulis, S., Proesmans, M., Dai, D., & Van Gool, L.  [Multi-Task Learning for Dense Prediction Tasks: A Survey](https://arxiv.org/abs/2004.13379). TPAMI, 2021.
 - Crawshaw, M.  [Multi-Task Learning with Deep Neural Networks: A Survey](http://arxiv.org/abs/2009.09796). ArXiv, 2020. 
 - Worsham, J., & Kalita, J.  [Multi-task learning for natural language processing in the 2020s: Where are we going?](https://doi.org/10.1016/j.patrec.2020.05.031) *Pattern Recognition Letters*, 2020.
