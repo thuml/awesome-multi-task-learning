@@ -313,6 +313,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 
 ### Task Sampling
 
+- **[Scheduled Multi-Task Training]** Cho, M., Park, J., Lee, S., & Sung, Y. [Hard Tasks First: Multi-Task Reinforcement Learning Through Task Scheduling](https://proceedings.mlr.press/v235/cho24d.html). ICML, 2024.
 - **[MT-Uncertainty Sampling]** Pilault, J., Elhattami, A., & Pal, C. J. [Conditionally Adaptive Multi-Task Learning: Improving Transfer Learning in NLP Using Fewer Parameters & Less Data](https://openreview.net/forum?id=de11dbHzAMF). ICLR, 2021.
 - **[Uniform, Task size, Counterfactual]** Glover, J., & Hokamp, C.  [Task Selection Policies for Multitask Learning](http://arxiv.org/abs/1907.06214). ArXiv, 2019. 
 
