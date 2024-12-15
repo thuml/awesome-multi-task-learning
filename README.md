@@ -146,6 +146,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 
 ### Hard Parameter Sharing
 
+- Zhao, Z., Ziser, Y., & Cohen, S. B.  [Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models](https://aclanthology.org/2024.emnlp-main.847.pdf). EMNLP, 2024.
 - Heuer, F., Mantowsky, S., Bukhari, S. S., & Schneider, G.  [MultiTask-CenterNet (MCN): Efficient and Diverse Multitask Learning using an Anchor Free Approach](http://arxiv.org/abs/2108.05060). ICCV, 2021.
 - Hu, R., & Singh, A.  [UniT: Multimodal Multitask Learning with a Unified Transformer](http://arxiv.org/abs/2102.10772). ICCV, 2021.
 - ✨ Liu, X., He, P., Chen, W., & Gao, J.  [Multi-Task Deep Neural Networks for Natural Language Understanding](https://arxiv.org/pdf/1901.11504.pdf). ACL, 2019.
@@ -347,6 +348,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 
 ## Task Relationship Learning: Grouping, Tree (Hierarchy) & Cascading
 
+- Zhao, Z., Ziser, Y., & Cohen, S. B.  [Layer by Layer: Uncovering Where Multi-Task Learning Happens in Instruction-Tuned Large Language Models](https://aclanthology.org/2024.emnlp-main.847.pdf). EMNLP, 2024.
 - ✨ Hu, Y., Yang, J., Chen, L., Li, K., Sima, C., Zhu, X., ... & Li, H.  [Planning-oriented autonomous driving](https://arxiv.org/abs/2212.10156). CVPR, 2023 (Best Paper).
 - ✨ Ilharco, Gabriel, Marco Tulio Ribeiro, Mitchell Wortsman, Suchin Gururangan, Ludwig Schmidt, Hannaneh Hajishirzi, and Ali Farhadi. [Editing Models with Task Arithmetic](https://arxiv.org/abs/2212.04089). ICLR, 2023. 
 - Song, Xiaozhuang, Shun Zheng, Wei Cao, James Yu, and Jiang Bian. [Efficient and Effective Multi-Task Grouping via Meta Learning on Task Combinations](https://openreview.net/forum?id=Rqe-fJQtExY). NeurIPS, 2022.
