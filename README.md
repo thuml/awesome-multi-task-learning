@@ -128,6 +128,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 - **General**
   - ✨ [LibMTL](https://github.com/median-research-group/libmtl): LibMTL: A PyTorch Library for Multi-Task Learning
   - [MALSAR](https://github.com/jiayuzhou/MALSAR): Multi-task learning via Structural Regularization (⚠️ Non-deep Learning)
+  - ✨ [TorchJD](https://github.com/TorchJD/torchjd): Library for Jacobian descent with PyTorch. It enables the optimization of neural networks with multiple losses (e.g. multi-task learning).
 - **Computer Vision**
   - ✨ [Multi-Task-Learning-PyTorch](https://github.com/SimonVandenhende/Multi-Task-Learning-PyTorch): PyTorch implementation of multi-task learning architectures
   - ✨ [mtan](https://github.com/lorenmt/mtan): The implementation of "End-to-End Multi-Task Learning with Attention"
@@ -254,6 +255,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 
 ### Loss & Gradient Strategy
 
+- **[UPGrad]** Quinton, P. & Rey, V. [Jacobian Descent for Multi-Objective Optimization](https://arxiv.org/pdf/2406.16232). ArXiv, 2024.
 - **[ConFIG]** Liu, Q., Chu, M., & Thuerey, N.  [ConFIG: Towards conflict-free training of physics informed neural networks](https://arxiv.org/pdf/2408.11104). ArXiv, 2024.
 - **[FairGrad]** Ban, H., & Ji, K. [Fair Resource Allocation in Multi-Task Learning](https://arxiv.org/abs/2402.15638). ICML, 2024.
 - **[SDMGrad]** Xiao, P., Ban, H., & Ji, K. [Direction-oriented multi-objective learning: Simple and provable stochastic algorithms](https://openreview.net/forum?id=4Ks8RPcXd9). NeurIPS, 2023.
