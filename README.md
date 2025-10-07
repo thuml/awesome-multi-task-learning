@@ -254,7 +254,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 ## Optimization
 
 ### Loss & Gradient Strategy
-
+- **[FS-MTL]** Phan, H., Tran, L., Tran, N. N., Ho, N., Phung, D., & Le, T. [Beyond Losses Reweighting: Empowering Multi-Task Learning via the Generalization Perspective](https://arxiv.org/abs/2211.13723). ICCV Highlight, 2025.
 - **[UPGrad]** Quinton, P. & Rey, V. [Jacobian Descent for Multi-Objective Optimization](https://arxiv.org/pdf/2406.16232). ArXiv, 2024.
 - **[ConFIG]** Liu, Q., Chu, M., & Thuerey, N.  [ConFIG: Towards conflict-free training of physics informed neural networks](https://arxiv.org/pdf/2408.11104). ArXiv, 2024.
 - **[FairGrad]** Ban, H., & Ji, K. [Fair Resource Allocation in Multi-Task Learning](https://arxiv.org/abs/2402.15638). ICML, 2024.
