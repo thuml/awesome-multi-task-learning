@@ -207,7 +207,7 @@ We welcome your contributions! If you find any mistakes or omissions, please let
 - ✨ Rebuffi, S.-A., Bilen, H., & Vedaldi, A.  [Learning multiple visual domains with residual adapters](https://arxiv.org/abs/1705.08045). NeurIPS, 2017.
 
 ### Modularity, MoE, Routing & NAS
-
+- Hendawy, A., Peters, J., & D'Eramo, C.  [Multi-Task Reinforcement Learning with Mixture of Orthogonal Experts](https://arxiv.org/abs/2311.11385). ICLR, 2024.
 - Chen, Z., Shen, Y., Ding, M., Chen, Z., Zhao, H., Learned-Miller, E., & Gan, C.  [Mod-Squad: Designing Mixture of Experts As Modular Multi-Task Learners](https://arxiv.org/abs/2212.08066). CVPR, 2023.
 - ✨ Yang, X., Ye, J., & Wang, X.  [Factorizing Knowledge in Neural Networks](http://arxiv.org/abs/2207.03337). ECCV, 2022. 
 - ✨ Liang, H., Fan, Z., Sarkar, R., Jiang, Z., Chen, T., Zou, K., ... & Wang, Z.  [M$^ 3$ViT: Mixture-of-Experts Vision Transformer for Efficient Multi-task Learning with Model-Accelerator Co-design](https://arxiv.org/abs/2210.14793). NeurIPS, 2022.
